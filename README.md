@@ -113,7 +113,7 @@ portfolio targets is named, not left implicit.
 *Phase 1 · Pre-Launch (100 Howse Terrace, Calgary) · Term: Fall 2026*
 
 - **Academic / Course Milestones**
-  - Open Studies advising appointment: map the 10-course threshold to a BSc Computer Science major transfer plan.
+  - Open Studies advising appointment: plan the **pathway into BSc Computer Science** via the Undergraduate Admission Guarantee — 18 units in Open Studies by end of Winter with GPA ≥2.50 (Science), plus English 30-1. No '10-course' threshold exists; the real gate is 18 units + GPA.
 - **Financial Action Items**
   - **Alberta Income Support report — Oct 2026** (≈$600 CAD/mo). Submit monthly report before end of month; keep bank statements.
 - **Training & Artistic Schedule**
@@ -1022,7 +1022,7 @@ portfolio targets is named, not left implicit.
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Academic / Course Milestones**
-  - **10-course threshold check** — confirm transfer from Open Studies into BSc Computer Science major.
+  - **BSc CS admission-guarantee check** — confirm 18 Open Studies units completed and cumulative GPA ≥2.50 (Science); submit change-of-program request. (Open Studies attempt cap = 36 units.)
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
@@ -1263,7 +1263,7 @@ portfolio targets is named, not left implicit.
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: —*
 
 - **Academic / Course Milestones**
-  - **Winter 2028 start** — CHIN 303 (HSK 4 track).
+  - **Winter 2028 start** — CHIN 303 (continuing Chinese; ≈HSK 4 level).
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
@@ -1281,7 +1281,7 @@ portfolio targets is named, not left implicit.
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Academic / Course Milestones**
-  - **Winter 2028 term start** — classes begin (CHIN 303 (HSK 4) + CS elective). _(UCalgary tentative date)_ Confirm sections, labs, D2L.
+  - **Winter 2028 term start** — classes begin (CHIN 303 (≈HSK 4 level; no official UCalgary HSK mapping)). _(UCalgary tentative date)_ Confirm sections, labs, D2L.
 - **Financial Action Items**
   - **Winter 2028: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
   - Winter 2028 aid confirmation; exchange funding/award applications open.
@@ -2231,9 +2231,9 @@ portfolio targets is named, not left implicit.
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Academic / Course Milestones**
-  - **Winter 2029 term start** — classes begin (Exchange — CLIC (HSK 5 track)). _(provisional — only class start/end is in UCalgary's feed)_ Confirm sections, labs, D2L.
+  - **Winter 2029 term start** — classes begin (Exchange — CLIC (≈HSK 5 level target)). _(provisional — only class start/end is in UCalgary's feed)_ Confirm sections, labs, D2L.
   - Add/drop, withdrawal, exam and tuition dates for this term are **not yet published** by UCalgary — confirm at ucalgary.ca/registrar/dates before relying on them.
-  - **Spring exchange term** — HSK 5 prep + CS electives.
+  - **Spring exchange term** — Chinese + CS electives; HSK 5 exam prep.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
