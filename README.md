@@ -81,7 +81,7 @@ calendrical.
 - [ ] Alberta Student Aid profile created; Income Support reports filed Sep-Dec
 - [ ] Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
 
-### W001 · Mon 2026-09-21 → Sun 2026-09-27
+### W001 · Mon 2026 SEP 21 → Sun 2026 SEP 27
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -109,10 +109,11 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W002 · Mon 2026-09-28 → Sun 2026-10-04
+### W002 · Mon 2026 SEP 28 → Sun 2026 OCT 04
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **Commitment (Renew Alberta driver's licence)** — Confirm the exact expiry date and licence class on your current card, and check that the address on file is current (Alberta requires driving documents be updated within 14 days of any change).
   - **Start now (needed in 2 wk):** Book the Open Studies advising appointment — map the pathway into BSc Computer Science.
   - On the horizon: Apply — Confirm UCalgary Open Studies admission; accept the offer in the student portal. (by Oct 05, 2026).
   - On the horizon: Apply — Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps. (by Oct 21, 2026).
@@ -136,10 +137,18 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W003 · Mon 2026-10-05 → Sun 2026-10-11
+> **Commitment detail — Commitment (Renew Alberta driver's licence) — Confirm the exact expiry date and licence class on your current card, and check that the address on file is current (Alberta requires driving documents be updated within 14 days of any change).**
+> Read the expiry date and class off your current licence and verify the address on file matches where you actually live (100 Howse Terrace).
+> - Look at the card: note the expiry date (YYYY-MM-DD) and the class (e.g. Class 5 / Class 5 GDL).
+> - Confirm the mailing address on file — if it changed, plan to update it (must be done within 14 days of the change).
+> - Write the expiry date into this calendar so the lead times are anchored to the real date, not a guess.
+> Links: https://www.alberta.ca/licensing-and-owning-a-vehicle
+
+### W003 · Mon 2026 OCT 05 → Sun 2026 OCT 11
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **Commitment (Renew Alberta driver's licence)** — Decide the renewal route: check whether online renewal is available for your class via Alberta.ca eServices; otherwise plan for an in-person visit to a registry agent. Sign up for renewal reminders.
   - **DUE THIS WEEK — Apply:** Confirm UCalgary Open Studies admission; accept the offer in the student portal.
   - **Start now (needed in 2 wk):** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
   - On the horizon: Book — Book the Open Studies advising appointment — map the pathway into BSc Computer Science. (by Oct 14, 2026).
@@ -163,10 +172,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W004 · Mon 2026-10-12 → Sun 2026-10-18
+> **Commitment detail — Commitment (Renew Alberta driver's licence) — Decide the renewal route: check whether online renewal is available for your class via Alberta.ca eServices; otherwise plan for an in-person visit to a registry agent. Sign up for renewal reminders.**
+> Renewals are done in person at an authorized Alberta registry agent (some services may be available online depending on class). Sign up for the eServices renewal reminder so this never surprises you again.
+> - Check Alberta.ca eServices: is online renewal offered for your licence class?
+> - If not (or if unsure), plan for an in-person visit to an authorized registry agent.
+> - Sign up for Alberta.ca eServices renewal reminders for your licence and any vehicle registration.
+> - Note which route you chose in the week's Notes.
+> Links: https://www.alberta.ca/licensing-and-owning-a-vehicle
+
+### W004 · Mon 2026 OCT 12 → Sun 2026 OCT 18
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **Commitment (Renew Alberta driver's licence)** — Book the registry-agent appointment (in person) at a Calgary registry — pick a location and a time you can actually make.
   - **DUE THIS WEEK — Book:** Book the Open Studies advising appointment — map the pathway into BSc Computer Science.
   - **Start now (needed in 3 wk):** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
   - On the horizon: Apply — Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps. (by Oct 21, 2026).
@@ -190,10 +208,18 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W005 · Mon 2026-10-19 → Sun 2026-10-25
+> **Commitment detail — Commitment (Renew Alberta driver's licence) — Book the registry-agent appointment (in person) at a Calgary registry — pick a location and a time you can actually make.**
+> Reserve a slot at a Calgary registry agent for the renewal. Walk-ins are possible but an appointment removes the queue risk near the deadline.
+> - Pick a Calgary registry agent that is convenient (see the registry-agents page).
+> - Book an appointment date at least two weeks before the Nov 8 expiry.
+> - Add the appointment time to your personal calendar and to this week's Notes.
+> Links: https://www.alberta.ca/registry-agents
+
+### W005 · Mon 2026 OCT 19 → Sun 2026 OCT 25
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **Commitment (Renew Alberta driver's licence)** — Gather what you'll bring: current licence, proof of Alberta residency, and payment. Confirm the current renewal fee for your class/term at the counter or on Alberta.ca.
   - **DUE THIS WEEK — Apply:** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
   - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
   - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
@@ -217,10 +243,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W006 · Mon 2026-10-26 → Sun 2026-11-01
+> **Commitment detail — Commitment (Renew Alberta driver's licence) — Gather what you'll bring: current licence, proof of Alberta residency, and payment. Confirm the current renewal fee for your class/term at the counter or on Alberta.ca.**
+> Assemble the documents and confirm the fee — do not guess the amount. Bring the expiring licence (you surrender it), proof of Alberta residency, and a payment method.
+> - Bring your current (expiring) licence — you surrender it at renewal.
+> - Bring proof of Alberta residency (confirm the accepted forms at the registry / Alberta.ca).
+> - Confirm the current fee for your licence class and renewal term — ask at the counter or check Alberta.ca (amount NOT stated here: UNVERIFIED).
+> - Bring a valid payment method (card accepted at most registry agents).
+> Links: https://www.alberta.ca/get-drivers-licence
+
+### W006 · Mon 2026 OCT 26 → Sun 2026 NOV 01
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **Commitment (Renew Alberta driver's licence)** — Attend the appointment: surrender the old licence, receive the interim/temporary document, and pay. The permanent card is produced and mailed.
   - **Start now (needed in 2 wk):** Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots).
   - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
   - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
@@ -244,10 +279,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W007 · Mon 2026-11-02 → Sun 2026-11-08
+> **Commitment detail — Commitment (Renew Alberta driver's licence) — Attend the appointment: surrender the old licence, receive the interim/temporary document, and pay. The permanent card is produced and mailed.**
+> Do the renewal in person. You hand over the old licence, get a temporary (interim) document to cover the gap, and the new card is mailed to your address on file.
+> - Attend the booked appointment with your documents.
+> - Surrender the old licence and confirm your name/address/class are correct on the new record.
+> - Check the interim/temporary document: confirm it covers you until the card arrives, and note its validity.
+> - Pay and keep the receipt (file it with your records).
+> Links: https://www.alberta.ca/licensing-and-owning-a-vehicle
+
+### W007 · Mon 2026 NOV 02 → Sun 2026 NOV 08
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE (Renew Alberta driver's licence)** — DUE — licence expires Nov 8. By now the renewal is complete and you hold a valid (interim or permanent) licence. Confirm the permanent card has arrived or is tracked.
   - **DUE THIS WEEK — Apply:** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
   - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
   - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
@@ -271,7 +315,15 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W008 · Mon 2026-11-09 → Sun 2026-11-15
+> **Commitment detail — DUE (Renew Alberta driver's licence) — DUE — licence expires Nov 8. By now the renewal is complete and you hold a valid (interim or permanent) licence. Confirm the permanent card has arrived or is tracked.**
+> The deadline. Confirm the job is actually finished: a valid licence in hand, and the permanent card either arrived or confirmed as mailed.
+> - Confirm you hold a valid licence (interim counts) covering the expiry date.
+> - Track or confirm the mailed card; if it has not arrived within the stated window, contact the registry agent.
+> - Update any place that stores your licence number/expiry (employer, insurer, records), if applicable.
+> - Tick this week's box — the commitment is closed.
+> Links: https://www.alberta.ca/licensing-and-owning-a-vehicle
+
+### W008 · Mon 2026 NOV 09 → Sun 2026 NOV 15
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -298,7 +350,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W009 · Mon 2026-11-16 → Sun 2026-11-22
+### W009 · Mon 2026 NOV 16 → Sun 2026 NOV 22
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -325,7 +377,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W010 · Mon 2026-11-23 → Sun 2026-11-29
+### W010 · Mon 2026 NOV 23 → Sun 2026 NOV 29
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -352,7 +404,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W011 · Mon 2026-11-30 → Sun 2026-12-06
+### W011 · Mon 2026 NOV 30 → Sun 2026 DEC 06
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -379,7 +431,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W012 · Mon 2026-12-07 → Sun 2026-12-13
+### W012 · Mon 2026 DEC 07 → Sun 2026 DEC 13
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -406,7 +458,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W013 · Mon 2026-12-14 → Sun 2026-12-20
+### W013 · Mon 2026 DEC 14 → Sun 2026 DEC 20
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -433,7 +485,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W014 · Mon 2026-12-21 → Sun 2026-12-27
+### W014 · Mon 2026 DEC 21 → Sun 2026 DEC 27
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -460,7 +512,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W015 · Mon 2026-12-28 → Sun 2027-01-03
+### W015 · Mon 2026 DEC 28 → Sun 2027 JAN 03
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -499,7 +551,7 @@ calendrical.
 - [ ] >=9 units maintained every term (Student Aid stays active)
 - [ ] Blind 75 complete; LeetCode habit is daily and durable
 
-### W016 · Mon 2027-01-04 → Sun 2027-01-10
+### W016 · Mon 2027 JAN 04 → Sun 2027 JAN 10
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -527,7 +579,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W017 · Mon 2027-01-11 → Sun 2027-01-17
+### W017 · Mon 2027 JAN 11 → Sun 2027 JAN 17
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -554,7 +606,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W018 · Mon 2027-01-18 → Sun 2027-01-24
+### W018 · Mon 2027 JAN 18 → Sun 2027 JAN 24
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -581,7 +633,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W019 · Mon 2027-01-25 → Sun 2027-01-31
+### W019 · Mon 2027 JAN 25 → Sun 2027 JAN 31
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -608,7 +660,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W020 · Mon 2027-02-01 → Sun 2027-02-07
+### W020 · Mon 2027 FEB 01 → Sun 2027 FEB 07
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -635,7 +687,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W021 · Mon 2027-02-08 → Sun 2027-02-14
+### W021 · Mon 2027 FEB 08 → Sun 2027 FEB 14
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -662,7 +714,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W022 · Mon 2027-02-15 → Sun 2027-02-21
+### W022 · Mon 2027 FEB 15 → Sun 2027 FEB 21
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -689,7 +741,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W023 · Mon 2027-02-22 → Sun 2027-02-28
+### W023 · Mon 2027 FEB 22 → Sun 2027 FEB 28
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -716,7 +768,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W024 · Mon 2027-03-01 → Sun 2027-03-07
+### W024 · Mon 2027 MAR 01 → Sun 2027 MAR 07
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -743,7 +795,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W025 · Mon 2027-03-08 → Sun 2027-03-14
+### W025 · Mon 2027 MAR 08 → Sun 2027 MAR 14
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -770,7 +822,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W026 · Mon 2027-03-15 → Sun 2027-03-21
+### W026 · Mon 2027 MAR 15 → Sun 2027 MAR 21
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -797,7 +849,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W027 · Mon 2027-03-22 → Sun 2027-03-28
+### W027 · Mon 2027 MAR 22 → Sun 2027 MAR 28
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -824,7 +876,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W028 · Mon 2027-03-29 → Sun 2027-04-04
+### W028 · Mon 2027 MAR 29 → Sun 2027 APR 04
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -851,7 +903,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W029 · Mon 2027-04-05 → Sun 2027-04-11
+### W029 · Mon 2027 APR 05 → Sun 2027 APR 11
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -878,7 +930,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W030 · Mon 2027-04-12 → Sun 2027-04-18
+### W030 · Mon 2027 APR 12 → Sun 2027 APR 18
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -906,7 +958,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W031 · Mon 2027-04-19 → Sun 2027-04-25
+### W031 · Mon 2027 APR 19 → Sun 2027 APR 25
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -933,7 +985,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W032 · Mon 2027-04-26 → Sun 2027-05-02
+### W032 · Mon 2027 APR 26 → Sun 2027 MAY 02
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -971,7 +1023,7 @@ calendrical.
 - [ ] Fall 2027 registered (CPSC 331 + CHIN 301)
 - [ ] NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
 
-### W033 · Mon 2027-05-03 → Sun 2027-05-09
+### W033 · Mon 2027 MAY 03 → Sun 2027 MAY 09
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1000,7 +1052,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W034 · Mon 2027-05-10 → Sun 2027-05-16
+### W034 · Mon 2027 MAY 10 → Sun 2027 MAY 16
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1027,7 +1079,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W035 · Mon 2027-05-17 → Sun 2027-05-23
+### W035 · Mon 2027 MAY 17 → Sun 2027 MAY 23
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1054,7 +1106,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W036 · Mon 2027-05-24 → Sun 2027-05-30
+### W036 · Mon 2027 MAY 24 → Sun 2027 MAY 30
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1081,7 +1133,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W037 · Mon 2027-05-31 → Sun 2027-06-06
+### W037 · Mon 2027 MAY 31 → Sun 2027 JUN 06
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1108,7 +1160,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W038 · Mon 2027-06-07 → Sun 2027-06-13
+### W038 · Mon 2027 JUN 07 → Sun 2027 JUN 13
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1136,7 +1188,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W039 · Mon 2027-06-14 → Sun 2027-06-20
+### W039 · Mon 2027 JUN 14 → Sun 2027 JUN 20
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1164,7 +1216,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W040 · Mon 2027-06-21 → Sun 2027-06-27
+### W040 · Mon 2027 JUN 21 → Sun 2027 JUN 27
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1191,7 +1243,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W041 · Mon 2027-06-28 → Sun 2027-07-04
+### W041 · Mon 2027 JUN 28 → Sun 2027 JUL 04
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1219,7 +1271,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W042 · Mon 2027-07-05 → Sun 2027-07-11
+### W042 · Mon 2027 JUL 05 → Sun 2027 JUL 11
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1246,7 +1298,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W043 · Mon 2027-07-12 → Sun 2027-07-18
+### W043 · Mon 2027 JUL 12 → Sun 2027 JUL 18
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1273,7 +1325,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W044 · Mon 2027-07-19 → Sun 2027-07-25
+### W044 · Mon 2027 JUL 19 → Sun 2027 JUL 25
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1300,7 +1352,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W045 · Mon 2027-07-26 → Sun 2027-08-01
+### W045 · Mon 2027 JUL 26 → Sun 2027 AUG 01
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1327,7 +1379,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W046 · Mon 2027-08-02 → Sun 2027-08-08
+### W046 · Mon 2027 AUG 02 → Sun 2027 AUG 08
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1354,7 +1406,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W047 · Mon 2027-08-09 → Sun 2027-08-15
+### W047 · Mon 2027 AUG 09 → Sun 2027 AUG 15
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1382,7 +1434,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W048 · Mon 2027-08-16 → Sun 2027-08-22
+### W048 · Mon 2027 AUG 16 → Sun 2027 AUG 22
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1409,7 +1461,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W049 · Mon 2027-08-23 → Sun 2027-08-29
+### W049 · Mon 2027 AUG 23 → Sun 2027 AUG 29
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1436,7 +1488,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W050 · Mon 2027-08-30 → Sun 2027-09-05
+### W050 · Mon 2027 AUG 30 → Sun 2027 SEP 05
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1475,7 +1527,7 @@ calendrical.
 - [ ] CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied
 - [ ] Co-op work-term registration (Summer 2028) submitted
 
-### W051 · Mon 2027-09-06 → Sun 2027-09-12
+### W051 · Mon 2027 SEP 06 → Sun 2027 SEP 12
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1504,7 +1556,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W052 · Mon 2027-09-13 → Sun 2027-09-19
+### W052 · Mon 2027 SEP 13 → Sun 2027 SEP 19
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1531,7 +1583,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W053 · Mon 2027-09-20 → Sun 2027-09-26
+### W053 · Mon 2027 SEP 20 → Sun 2027 SEP 26
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1558,7 +1610,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W054 · Mon 2027-09-27 → Sun 2027-10-03
+### W054 · Mon 2027 SEP 27 → Sun 2027 OCT 03
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1585,7 +1637,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W055 · Mon 2027-10-04 → Sun 2027-10-10
+### W055 · Mon 2027 OCT 04 → Sun 2027 OCT 10
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1612,7 +1664,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W056 · Mon 2027-10-11 → Sun 2027-10-17
+### W056 · Mon 2027 OCT 11 → Sun 2027 OCT 17
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1639,7 +1691,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W057 · Mon 2027-10-18 → Sun 2027-10-24
+### W057 · Mon 2027 OCT 18 → Sun 2027 OCT 24
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1666,7 +1718,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W058 · Mon 2027-10-25 → Sun 2027-10-31
+### W058 · Mon 2027 OCT 25 → Sun 2027 OCT 31
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1693,7 +1745,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W059 · Mon 2027-11-01 → Sun 2027-11-07
+### W059 · Mon 2027 NOV 01 → Sun 2027 NOV 07
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1720,7 +1772,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W060 · Mon 2027-11-08 → Sun 2027-11-14
+### W060 · Mon 2027 NOV 08 → Sun 2027 NOV 14
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1747,7 +1799,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W061 · Mon 2027-11-15 → Sun 2027-11-21
+### W061 · Mon 2027 NOV 15 → Sun 2027 NOV 21
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1774,7 +1826,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W062 · Mon 2027-11-22 → Sun 2027-11-28
+### W062 · Mon 2027 NOV 22 → Sun 2027 NOV 28
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1801,7 +1853,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W063 · Mon 2027-11-29 → Sun 2027-12-05
+### W063 · Mon 2027 NOV 29 → Sun 2027 DEC 05
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1828,7 +1880,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W064 · Mon 2027-12-06 → Sun 2027-12-12
+### W064 · Mon 2027 DEC 06 → Sun 2027 DEC 12
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1857,7 +1909,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W065 · Mon 2027-12-13 → Sun 2027-12-19
+### W065 · Mon 2027 DEC 13 → Sun 2027 DEC 19
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1884,7 +1936,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W066 · Mon 2027-12-20 → Sun 2027-12-26
+### W066 · Mon 2027 DEC 20 → Sun 2027 DEC 26
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1911,7 +1963,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W067 · Mon 2027-12-27 → Sun 2028-01-02
+### W067 · Mon 2027 DEC 27 → Sun 2028 JAN 02
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1949,7 +2001,7 @@ calendrical.
 - [ ] HSK 4 reached; CHIN 303 complete
 - [ ] Project 1 shipped; exchange funding + China visa/permit underway
 
-### W068 · Mon 2028-01-03 → Sun 2028-01-09
+### W068 · Mon 2028 JAN 03 → Sun 2028 JAN 09
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1977,7 +2029,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W069 · Mon 2028-01-10 → Sun 2028-01-16
+### W069 · Mon 2028 JAN 10 → Sun 2028 JAN 16
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2005,7 +2057,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W070 · Mon 2028-01-17 → Sun 2028-01-23
+### W070 · Mon 2028 JAN 17 → Sun 2028 JAN 23
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2032,7 +2084,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W071 · Mon 2028-01-24 → Sun 2028-01-30
+### W071 · Mon 2028 JAN 24 → Sun 2028 JAN 30
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2059,7 +2111,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W072 · Mon 2028-01-31 → Sun 2028-02-06
+### W072 · Mon 2028 JAN 31 → Sun 2028 FEB 06
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2086,7 +2138,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W073 · Mon 2028-02-07 → Sun 2028-02-13
+### W073 · Mon 2028 FEB 07 → Sun 2028 FEB 13
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2113,7 +2165,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W074 · Mon 2028-02-14 → Sun 2028-02-20
+### W074 · Mon 2028 FEB 14 → Sun 2028 FEB 20
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2141,7 +2193,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W075 · Mon 2028-02-21 → Sun 2028-02-27
+### W075 · Mon 2028 FEB 21 → Sun 2028 FEB 27
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2168,7 +2220,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W076 · Mon 2028-02-28 → Sun 2028-03-05
+### W076 · Mon 2028 FEB 28 → Sun 2028 MAR 05
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2195,7 +2247,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W077 · Mon 2028-03-06 → Sun 2028-03-12
+### W077 · Mon 2028 MAR 06 → Sun 2028 MAR 12
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2222,7 +2274,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W078 · Mon 2028-03-13 → Sun 2028-03-19
+### W078 · Mon 2028 MAR 13 → Sun 2028 MAR 19
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2249,7 +2301,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W079 · Mon 2028-03-20 → Sun 2028-03-26
+### W079 · Mon 2028 MAR 20 → Sun 2028 MAR 26
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2276,7 +2328,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W080 · Mon 2028-03-27 → Sun 2028-04-02
+### W080 · Mon 2028 MAR 27 → Sun 2028 APR 02
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2303,7 +2355,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W081 · Mon 2028-04-03 → Sun 2028-04-09
+### W081 · Mon 2028 APR 03 → Sun 2028 APR 09
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2330,7 +2382,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W082 · Mon 2028-04-10 → Sun 2028-04-16
+### W082 · Mon 2028 APR 10 → Sun 2028 APR 16
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2357,7 +2409,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W083 · Mon 2028-04-17 → Sun 2028-04-23
+### W083 · Mon 2028 APR 17 → Sun 2028 APR 23
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2384,7 +2436,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W084 · Mon 2028-04-24 → Sun 2028-04-30
+### W084 · Mon 2028 APR 24 → Sun 2028 APR 30
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2422,7 +2474,7 @@ calendrical.
 - [ ] Project 2 shipped (before the exchange term)
 - [ ] Work permit, insurance and transfer-credit groundwork done
 
-### W085 · Mon 2028-05-01 → Sun 2028-05-07
+### W085 · Mon 2028 MAY 01 → Sun 2028 MAY 07
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2450,7 +2502,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W086 · Mon 2028-05-08 → Sun 2028-05-14
+### W086 · Mon 2028 MAY 08 → Sun 2028 MAY 14
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2477,7 +2529,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W087 · Mon 2028-05-15 → Sun 2028-05-21
+### W087 · Mon 2028 MAY 15 → Sun 2028 MAY 21
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2504,7 +2556,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W088 · Mon 2028-05-22 → Sun 2028-05-28
+### W088 · Mon 2028 MAY 22 → Sun 2028 MAY 28
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2531,7 +2583,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W089 · Mon 2028-05-29 → Sun 2028-06-04
+### W089 · Mon 2028 MAY 29 → Sun 2028 JUN 04
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2558,7 +2610,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W090 · Mon 2028-06-05 → Sun 2028-06-11
+### W090 · Mon 2028 JUN 05 → Sun 2028 JUN 11
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2585,7 +2637,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W091 · Mon 2028-06-12 → Sun 2028-06-18
+### W091 · Mon 2028 JUN 12 → Sun 2028 JUN 18
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2612,7 +2664,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W092 · Mon 2028-06-19 → Sun 2028-06-25
+### W092 · Mon 2028 JUN 19 → Sun 2028 JUN 25
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2639,7 +2691,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W093 · Mon 2028-06-26 → Sun 2028-07-02
+### W093 · Mon 2028 JUN 26 → Sun 2028 JUL 02
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2666,7 +2718,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W094 · Mon 2028-07-03 → Sun 2028-07-09
+### W094 · Mon 2028 JUL 03 → Sun 2028 JUL 09
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2693,7 +2745,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W095 · Mon 2028-07-10 → Sun 2028-07-16
+### W095 · Mon 2028 JUL 10 → Sun 2028 JUL 16
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2720,7 +2772,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W096 · Mon 2028-07-17 → Sun 2028-07-23
+### W096 · Mon 2028 JUL 17 → Sun 2028 JUL 23
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2747,7 +2799,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W097 · Mon 2028-07-24 → Sun 2028-07-30
+### W097 · Mon 2028 JUL 24 → Sun 2028 JUL 30
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2774,7 +2826,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W098 · Mon 2028-07-31 → Sun 2028-08-06
+### W098 · Mon 2028 JUL 31 → Sun 2028 AUG 06
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2801,7 +2853,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W099 · Mon 2028-08-07 → Sun 2028-08-13
+### W099 · Mon 2028 AUG 07 → Sun 2028 AUG 13
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2828,7 +2880,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W100 · Mon 2028-08-14 → Sun 2028-08-20
+### W100 · Mon 2028 AUG 14 → Sun 2028 AUG 20
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2855,7 +2907,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W101 · Mon 2028-08-21 → Sun 2028-08-27
+### W101 · Mon 2028 AUG 21 → Sun 2028 AUG 27
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -2882,7 +2934,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W102 · Mon 2028-08-28 → Sun 2028-09-03
+### W102 · Mon 2028 AUG 28 → Sun 2028 SEP 03
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -2919,7 +2971,7 @@ calendrical.
 - [ ] Exchange year complete; transfer credits approved and on the transcript
 - [ ] HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
 
-### W103 · Mon 2028-09-04 → Sun 2028-09-10
+### W103 · Mon 2028 SEP 04 → Sun 2028 SEP 10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -2947,7 +2999,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W104 · Mon 2028-09-11 → Sun 2028-09-17
+### W104 · Mon 2028 SEP 11 → Sun 2028 SEP 17
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2975,7 +3027,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W105 · Mon 2028-09-18 → Sun 2028-09-24
+### W105 · Mon 2028 SEP 18 → Sun 2028 SEP 24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3002,7 +3054,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W106 · Mon 2028-09-25 → Sun 2028-10-01
+### W106 · Mon 2028 SEP 25 → Sun 2028 OCT 01
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3029,7 +3081,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W107 · Mon 2028-10-02 → Sun 2028-10-08
+### W107 · Mon 2028 OCT 02 → Sun 2028 OCT 08
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3056,7 +3108,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W108 · Mon 2028-10-09 → Sun 2028-10-15
+### W108 · Mon 2028 OCT 09 → Sun 2028 OCT 15
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3083,7 +3135,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W109 · Mon 2028-10-16 → Sun 2028-10-22
+### W109 · Mon 2028 OCT 16 → Sun 2028 OCT 22
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3110,7 +3162,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W110 · Mon 2028-10-23 → Sun 2028-10-29
+### W110 · Mon 2028 OCT 23 → Sun 2028 OCT 29
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3137,7 +3189,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W111 · Mon 2028-10-30 → Sun 2028-11-05
+### W111 · Mon 2028 OCT 30 → Sun 2028 NOV 05
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3164,7 +3216,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W112 · Mon 2028-11-06 → Sun 2028-11-12
+### W112 · Mon 2028 NOV 06 → Sun 2028 NOV 12
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3191,7 +3243,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W113 · Mon 2028-11-13 → Sun 2028-11-19
+### W113 · Mon 2028 NOV 13 → Sun 2028 NOV 19
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3218,7 +3270,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W114 · Mon 2028-11-20 → Sun 2028-11-26
+### W114 · Mon 2028 NOV 20 → Sun 2028 NOV 26
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3245,7 +3297,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W115 · Mon 2028-11-27 → Sun 2028-12-03
+### W115 · Mon 2028 NOV 27 → Sun 2028 DEC 03
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3272,7 +3324,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W116 · Mon 2028-12-04 → Sun 2028-12-10
+### W116 · Mon 2028 DEC 04 → Sun 2028 DEC 10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3299,7 +3351,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W117 · Mon 2028-12-11 → Sun 2028-12-17
+### W117 · Mon 2028 DEC 11 → Sun 2028 DEC 17
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3326,7 +3378,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W118 · Mon 2028-12-18 → Sun 2028-12-24
+### W118 · Mon 2028 DEC 18 → Sun 2028 DEC 24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3353,7 +3405,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W119 · Mon 2028-12-25 → Sun 2028-12-31
+### W119 · Mon 2028 DEC 25 → Sun 2028 DEC 31
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3380,7 +3432,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W120 · Mon 2029-01-01 → Sun 2029-01-07
+### W120 · Mon 2029 JAN 01 → Sun 2029 JAN 07
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3407,7 +3459,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W121 · Mon 2029-01-08 → Sun 2029-01-14
+### W121 · Mon 2029 JAN 08 → Sun 2029 JAN 14
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3436,7 +3488,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W122 · Mon 2029-01-15 → Sun 2029-01-21
+### W122 · Mon 2029 JAN 15 → Sun 2029 JAN 21
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3463,7 +3515,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W123 · Mon 2029-01-22 → Sun 2029-01-28
+### W123 · Mon 2029 JAN 22 → Sun 2029 JAN 28
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3490,7 +3542,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W124 · Mon 2029-01-29 → Sun 2029-02-04
+### W124 · Mon 2029 JAN 29 → Sun 2029 FEB 04
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3517,7 +3569,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W125 · Mon 2029-02-05 → Sun 2029-02-11
+### W125 · Mon 2029 FEB 05 → Sun 2029 FEB 11
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3544,7 +3596,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W126 · Mon 2029-02-12 → Sun 2029-02-18
+### W126 · Mon 2029 FEB 12 → Sun 2029 FEB 18
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3571,7 +3623,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W127 · Mon 2029-02-19 → Sun 2029-02-25
+### W127 · Mon 2029 FEB 19 → Sun 2029 FEB 25
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3598,7 +3650,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W128 · Mon 2029-02-26 → Sun 2029-03-04
+### W128 · Mon 2029 FEB 26 → Sun 2029 MAR 04
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3625,7 +3677,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W129 · Mon 2029-03-05 → Sun 2029-03-11
+### W129 · Mon 2029 MAR 05 → Sun 2029 MAR 11
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3652,7 +3704,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W130 · Mon 2029-03-12 → Sun 2029-03-18
+### W130 · Mon 2029 MAR 12 → Sun 2029 MAR 18
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3679,7 +3731,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W131 · Mon 2029-03-19 → Sun 2029-03-25
+### W131 · Mon 2029 MAR 19 → Sun 2029 MAR 25
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3706,7 +3758,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W132 · Mon 2029-03-26 → Sun 2029-04-01
+### W132 · Mon 2029 MAR 26 → Sun 2029 APR 01
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3733,7 +3785,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W133 · Mon 2029-04-02 → Sun 2029-04-08
+### W133 · Mon 2029 APR 02 → Sun 2029 APR 08
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3760,7 +3812,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W134 · Mon 2029-04-09 → Sun 2029-04-15
+### W134 · Mon 2029 APR 09 → Sun 2029 APR 15
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3787,7 +3839,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W135 · Mon 2029-04-16 → Sun 2029-04-22
+### W135 · Mon 2029 APR 16 → Sun 2029 APR 22
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3814,7 +3866,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W136 · Mon 2029-04-23 → Sun 2029-04-29
+### W136 · Mon 2029 APR 23 → Sun 2029 APR 29
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3841,7 +3893,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W137 · Mon 2029-04-30 → Sun 2029-05-06
+### W137 · Mon 2029 APR 30 → Sun 2029 MAY 06
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3868,7 +3920,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W138 · Mon 2029-05-07 → Sun 2029-05-13
+### W138 · Mon 2029 MAY 07 → Sun 2029 MAY 13
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3895,7 +3947,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W139 · Mon 2029-05-14 → Sun 2029-05-20
+### W139 · Mon 2029 MAY 14 → Sun 2029 MAY 20
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3922,7 +3974,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W140 · Mon 2029-05-21 → Sun 2029-05-27
+### W140 · Mon 2029 MAY 21 → Sun 2029 MAY 27
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3949,7 +4001,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W141 · Mon 2029-05-28 → Sun 2029-06-03
+### W141 · Mon 2029 MAY 28 → Sun 2029 JUN 03
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3976,7 +4028,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W142 · Mon 2029-06-04 → Sun 2029-06-10
+### W142 · Mon 2029 JUN 04 → Sun 2029 JUN 10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4003,7 +4055,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W143 · Mon 2029-06-11 → Sun 2029-06-17
+### W143 · Mon 2029 JUN 11 → Sun 2029 JUN 17
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4030,7 +4082,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W144 · Mon 2029-06-18 → Sun 2029-06-24
+### W144 · Mon 2029 JUN 18 → Sun 2029 JUN 24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4057,7 +4109,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W145 · Mon 2029-06-25 → Sun 2029-07-01
+### W145 · Mon 2029 JUN 25 → Sun 2029 JUL 01
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4094,7 +4146,7 @@ calendrical.
 - [ ] Applied AI/LLM/robotics internship shipped and written up
 - [ ] Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
 
-### W146 · Mon 2029-07-02 → Sun 2029-07-08
+### W146 · Mon 2029 JUL 02 → Sun 2029 JUL 08
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4122,7 +4174,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W147 · Mon 2029-07-09 → Sun 2029-07-15
+### W147 · Mon 2029 JUL 09 → Sun 2029 JUL 15
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4149,7 +4201,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W148 · Mon 2029-07-16 → Sun 2029-07-22
+### W148 · Mon 2029 JUL 16 → Sun 2029 JUL 22
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4176,7 +4228,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** internship feature shipped?.
 
-### W149 · Mon 2029-07-23 → Sun 2029-07-29
+### W149 · Mon 2029 JUL 23 → Sun 2029 JUL 29
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4203,7 +4255,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W150 · Mon 2029-07-30 → Sun 2029-08-05
+### W150 · Mon 2029 JUL 30 → Sun 2029 AUG 05
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4230,7 +4282,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W151 · Mon 2029-08-06 → Sun 2029-08-12
+### W151 · Mon 2029 AUG 06 → Sun 2029 AUG 12
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4257,7 +4309,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** internship feature shipped?.
 
-### W152 · Mon 2029-08-13 → Sun 2029-08-19
+### W152 · Mon 2029 AUG 13 → Sun 2029 AUG 19
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4284,7 +4336,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W153 · Mon 2029-08-20 → Sun 2029-08-26
+### W153 · Mon 2029 AUG 20 → Sun 2029 AUG 26
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4311,7 +4363,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W154 · Mon 2029-08-27 → Sun 2029-09-02
+### W154 · Mon 2029 AUG 27 → Sun 2029 SEP 02
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4349,7 +4401,7 @@ calendrical.
 - [ ] NeetCode 150 mastered twice; interview-ready in C++ and Python
 - [ ] Graduation audit cleared; job / grad-school pipeline live
 
-### W155 · Mon 2029-09-03 → Sun 2029-09-09
+### W155 · Mon 2029 SEP 03 → Sun 2029 SEP 09
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4377,7 +4429,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W156 · Mon 2029-09-10 → Sun 2029-09-16
+### W156 · Mon 2029 SEP 10 → Sun 2029 SEP 16
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4406,7 +4458,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W157 · Mon 2029-09-17 → Sun 2029-09-23
+### W157 · Mon 2029 SEP 17 → Sun 2029 SEP 23
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4433,7 +4485,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W158 · Mon 2029-09-24 → Sun 2029-09-30
+### W158 · Mon 2029 SEP 24 → Sun 2029 SEP 30
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4460,7 +4512,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W159 · Mon 2029-10-01 → Sun 2029-10-07
+### W159 · Mon 2029 OCT 01 → Sun 2029 OCT 07
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4487,7 +4539,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W160 · Mon 2029-10-08 → Sun 2029-10-14
+### W160 · Mon 2029 OCT 08 → Sun 2029 OCT 14
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4514,7 +4566,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W161 · Mon 2029-10-15 → Sun 2029-10-21
+### W161 · Mon 2029 OCT 15 → Sun 2029 OCT 21
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4540,7 +4592,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W162 · Mon 2029-10-22 → Sun 2029-10-28
+### W162 · Mon 2029 OCT 22 → Sun 2029 OCT 28
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4566,7 +4618,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W163 · Mon 2029-10-29 → Sun 2029-11-04
+### W163 · Mon 2029 OCT 29 → Sun 2029 NOV 04
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4592,7 +4644,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W164 · Mon 2029-11-05 → Sun 2029-11-11
+### W164 · Mon 2029 NOV 05 → Sun 2029 NOV 11
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4618,7 +4670,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W165 · Mon 2029-11-12 → Sun 2029-11-18
+### W165 · Mon 2029 NOV 12 → Sun 2029 NOV 18
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4644,7 +4696,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W166 · Mon 2029-11-19 → Sun 2029-11-25
+### W166 · Mon 2029 NOV 19 → Sun 2029 NOV 25
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4670,7 +4722,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W167 · Mon 2029-11-26 → Sun 2029-12-02
+### W167 · Mon 2029 NOV 26 → Sun 2029 DEC 02
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4696,7 +4748,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W168 · Mon 2029-12-03 → Sun 2029-12-09
+### W168 · Mon 2029 DEC 03 → Sun 2029 DEC 09
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4722,7 +4774,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W169 · Mon 2029-12-10 → Sun 2029-12-16
+### W169 · Mon 2029 DEC 10 → Sun 2029 DEC 16
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4748,7 +4800,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W170 · Mon 2029-12-17 → Sun 2029-12-23
+### W170 · Mon 2029 DEC 17 → Sun 2029 DEC 23
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4774,7 +4826,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W171 · Mon 2029-12-24 → Sun 2029-12-30
+### W171 · Mon 2029 DEC 24 → Sun 2029 DEC 30
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4800,7 +4852,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W172 · Mon 2029-12-31 → Sun 2030-01-06
+### W172 · Mon 2029 DEC 31 → Sun 2030 JAN 06
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4826,7 +4878,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W173 · Mon 2030-01-07 → Sun 2030-01-13
+### W173 · Mon 2030 JAN 07 → Sun 2030 JAN 13
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4852,7 +4904,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W174 · Mon 2030-01-14 → Sun 2030-01-20
+### W174 · Mon 2030 JAN 14 → Sun 2030 JAN 20
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4879,7 +4931,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W175 · Mon 2030-01-21 → Sun 2030-01-27
+### W175 · Mon 2030 JAN 21 → Sun 2030 JAN 27
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4904,7 +4956,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W176 · Mon 2030-01-28 → Sun 2030-02-03
+### W176 · Mon 2030 JAN 28 → Sun 2030 FEB 03
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4929,7 +4981,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W177 · Mon 2030-02-04 → Sun 2030-02-10
+### W177 · Mon 2030 FEB 04 → Sun 2030 FEB 10
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4954,7 +5006,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W178 · Mon 2030-02-11 → Sun 2030-02-17
+### W178 · Mon 2030 FEB 11 → Sun 2030 FEB 17
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4979,7 +5031,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W179 · Mon 2030-02-18 → Sun 2030-02-24
+### W179 · Mon 2030 FEB 18 → Sun 2030 FEB 24
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5004,7 +5056,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W180 · Mon 2030-02-25 → Sun 2030-03-03
+### W180 · Mon 2030 FEB 25 → Sun 2030 MAR 03
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5029,7 +5081,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W181 · Mon 2030-03-04 → Sun 2030-03-10
+### W181 · Mon 2030 MAR 04 → Sun 2030 MAR 10
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5054,7 +5106,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W182 · Mon 2030-03-11 → Sun 2030-03-17
+### W182 · Mon 2030 MAR 11 → Sun 2030 MAR 17
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5079,7 +5131,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W183 · Mon 2030-03-18 → Sun 2030-03-24
+### W183 · Mon 2030 MAR 18 → Sun 2030 MAR 24
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5104,7 +5156,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W184 · Mon 2030-03-25 → Sun 2030-03-31
+### W184 · Mon 2030 MAR 25 → Sun 2030 MAR 31
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5129,7 +5181,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W185 · Mon 2030-04-01 → Sun 2030-04-07
+### W185 · Mon 2030 APR 01 → Sun 2030 APR 07
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5154,7 +5206,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W186 · Mon 2030-04-08 → Sun 2030-04-14
+### W186 · Mon 2030 APR 08 → Sun 2030 APR 14
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5179,7 +5231,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W187 · Mon 2030-04-15 → Sun 2030-04-21
+### W187 · Mon 2030 APR 15 → Sun 2030 APR 21
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -5204,7 +5256,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W188 · Mon 2030-04-22 → Sun 2030-04-28
+### W188 · Mon 2030 APR 22 → Sun 2030 APR 28
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -5228,7 +5280,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W189 · Mon 2030-04-29 → Sun 2030-05-05
+### W189 · Mon 2030 APR 29 → Sun 2030 MAY 05
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -5252,7 +5304,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W190 · Mon 2030-05-06 → Sun 2030-05-12
+### W190 · Mon 2030 MAY 06 → Sun 2030 MAY 12
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5276,7 +5328,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W191 · Mon 2030-05-13 → Sun 2030-05-19
+### W191 · Mon 2030 MAY 13 → Sun 2030 MAY 19
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5300,7 +5352,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W192 · Mon 2030-05-20 → Sun 2030-05-26
+### W192 · Mon 2030 MAY 20 → Sun 2030 MAY 26
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5324,7 +5376,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W193 · Mon 2030-05-27 → Sun 2030-06-02
+### W193 · Mon 2030 MAY 27 → Sun 2030 JUN 02
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5348,7 +5400,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W194 · Mon 2030-06-03 → Sun 2030-06-09
+### W194 · Mon 2030 JUN 03 → Sun 2030 JUN 09
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5372,7 +5424,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W195 · Mon 2030-06-10 → Sun 2030-06-16
+### W195 · Mon 2030 JUN 10 → Sun 2030 JUN 16
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5396,7 +5448,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W196 · Mon 2030-06-17 → Sun 2030-06-23
+### W196 · Mon 2030 JUN 17 → Sun 2030 JUN 23
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5420,7 +5472,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W197 · Mon 2030-06-24 → Sun 2030-06-30
+### W197 · Mon 2030 JUN 24 → Sun 2030 JUN 30
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
