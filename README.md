@@ -45,10 +45,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Alberta Income Support report — Sep 2026** (≈$600 CAD/mo). Submit monthly report before end of month; keep bank statements.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - C++: rebuild core DS from scratch (vector, map, heap), RAII + smart pointers.
@@ -63,10 +63,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Python: companion DS&A implementations; start a `leetcode-notes` repo.
@@ -81,10 +81,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - LeetCode: Blind 75 — arrays, hashing, two pointers, sliding window.
@@ -99,10 +99,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Tooling: Ubuntu 22.04 + ROS2 Humble in a VM; portfolio repo with EN/中文 README.
@@ -117,10 +117,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Alberta Income Support report — Oct 2026** (≈$600 CAD/mo). Submit monthly report before end of month; keep bank statements.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - C++: rebuild core DS from scratch (vector, map, heap), RAII + smart pointers.
@@ -135,10 +135,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Apply to **UCalgary Science Co-op program** (enables the Summer 2028 Beijing work term). Check application window + fee.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Python: companion DS&A implementations; start a `leetcode-notes` repo.
@@ -153,10 +153,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - LeetCode: Blind 75 — arrays, hashing, two pointers, sliding window.
@@ -171,10 +171,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Tooling: Ubuntu 22.04 + ROS2 Humble in a VM; portfolio repo with EN/中文 README.
@@ -189,10 +189,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - C++: rebuild core DS from scratch (vector, map, heap), RAII + smart pointers.
@@ -208,10 +208,10 @@ portfolio targets is named, not left implicit.
   - **Alberta Income Support report — Nov 2026** (≈$600 CAD/mo). Submit monthly report before end of month; keep bank statements.
   - Alberta Student Aid: create/maintain profile; prep 2027-28 application documents (income, residency).
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Python: companion DS&A implementations; start a `leetcode-notes` repo.
@@ -226,10 +226,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - LeetCode: Blind 75 — arrays, hashing, two pointers, sliding window.
@@ -244,10 +244,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Calibration & Blind 75 (pass 1)**.
   - Tooling: Ubuntu 22.04 + ROS2 Humble in a VM; portfolio repo with EN/中文 README.
@@ -262,10 +262,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
@@ -280,10 +280,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Alberta Income Support report — Dec 2026** (≈$600 CAD/mo). Submit monthly report before end of month; keep bank statements.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - C++: move semantics, templates, STL algorithms, concurrency basics.
@@ -303,10 +303,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
@@ -321,10 +321,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Winter 2027: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
@@ -339,10 +339,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
@@ -357,10 +357,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - C++: move semantics, templates, STL algorithms, concurrency basics.
@@ -375,10 +375,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
@@ -393,10 +393,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
@@ -411,10 +411,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
@@ -429,10 +429,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - C++: move semantics, templates, STL algorithms, concurrency basics.
@@ -447,10 +447,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
@@ -465,10 +465,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
@@ -483,10 +483,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
@@ -501,10 +501,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
   - BJJ belt check with coach — track toward blue belt (target mid-2027).
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
@@ -520,10 +520,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
@@ -538,10 +538,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
@@ -557,10 +557,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
@@ -575,10 +575,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 → NeetCode 150 (start)**.
   - C++: move semantics, templates, STL algorithms, concurrency basics.
@@ -593,10 +593,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Confirm Spring/Summer 2027 **full-time bridge status (9 units)** for aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons, NW Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue-belt track)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos community pathway).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - Gazebo: URDF model of a simple robot; simulate joints + sensors.
@@ -618,10 +618,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Spring 2027: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - PyTorch: tensors, autograd, first CNN training script.
@@ -636,10 +636,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - LeetCode: NeetCode 150 — graphs, DP, intervals, greedy; first full pass by late Aug.
@@ -654,10 +654,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - ROS2: nodes, topics, services, launch files (rclcpp + rclpy).
@@ -672,10 +672,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - Gazebo: URDF model of a simple robot; simulate joints + sensors.
@@ -690,10 +690,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - PyTorch: tensors, autograd, first CNN training script.
@@ -709,10 +709,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - LeetCode: NeetCode 150 — graphs, DP, intervals, greedy; first full pass by late Aug.
@@ -728,10 +728,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Alberta Student Aid **2027-28 application** opens — submit early.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - ROS2: nodes, topics, services, launch files (rclcpp + rclpy).
@@ -746,10 +746,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - Gazebo: URDF model of a simple robot; simulate joints + sensors.
@@ -765,10 +765,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Summer 2027: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - PyTorch: tensors, autograd, first CNN training script.
@@ -783,10 +783,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - LeetCode: NeetCode 150 — graphs, DP, intervals, greedy; first full pass by late Aug.
@@ -801,10 +801,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - ROS2: nodes, topics, services, launch files (rclcpp + rclpy).
@@ -819,10 +819,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - Gazebo: URDF model of a simple robot; simulate joints + sensors.
@@ -837,10 +837,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - PyTorch: tensors, autograd, first CNN training script.
@@ -855,10 +855,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - LeetCode: NeetCode 150 — graphs, DP, intervals, greedy; first full pass by late Aug.
@@ -875,10 +875,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - ROS2: nodes, topics, services, launch files (rclcpp + rclpy).
@@ -893,10 +893,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - Gazebo: URDF model of a simple robot; simulate joints + sensors.
@@ -911,10 +911,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
   - PyTorch: tensors, autograd, first CNN training script.
@@ -929,10 +929,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (NW Calgary lessons + community string ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - LeetCode: timed second pass; start weekly contests.
@@ -954,10 +954,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Fall 2027: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - C++: ROS2 node control — controllers, TF2, real-time patterns.
@@ -972,10 +972,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Project 1 (VLM → kinematics): scope, repo scaffold, dataset + sim harness.
@@ -990,10 +990,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Isaac Sim: install; stand up a first articulated humanoid in simulation.
@@ -1008,10 +1008,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - LeetCode: timed second pass; start weekly contests.
@@ -1026,10 +1026,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - C++: ROS2 node control — controllers, TF2, real-time patterns.
@@ -1044,10 +1044,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Project 1 (VLM → kinematics): scope, repo scaffold, dataset + sim harness.
@@ -1062,10 +1062,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Isaac Sim: install; stand up a first articulated humanoid in simulation.
@@ -1080,10 +1080,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - LeetCode: timed second pass; start weekly contests.
@@ -1098,10 +1098,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - C++: ROS2 node control — controllers, TF2, real-time patterns.
@@ -1116,10 +1116,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Project 1 (VLM → kinematics): scope, repo scaffold, dataset + sim harness.
@@ -1134,10 +1134,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Science Co-op work-term registration deadline — Summer 2028 (Beijing).** Confirm placement, insurance, work-permit prep.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Isaac Sim: install; stand up a first articulated humanoid in simulation.
@@ -1152,10 +1152,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - LeetCode: timed second pass; start weekly contests.
@@ -1170,10 +1170,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - C++: ROS2 node control — controllers, TF2, real-time patterns.
@@ -1190,10 +1190,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Project 1 (VLM → kinematics): scope, repo scaffold, dataset + sim harness.
@@ -1208,10 +1208,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
   - Isaac Sim: install; stand up a first articulated humanoid in simulation.
@@ -1226,10 +1226,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 1: ship the end-to-end demo (VLM prompt → joint targets → sim execution) by Feb 2028.
@@ -1244,10 +1244,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 2: begin — LLM agentic pipeline driving a simulated humanoid task.
@@ -1267,10 +1267,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - LeetCode: Blind 75 second pass (timed, C++); interview drills.
@@ -1286,10 +1286,10 @@ portfolio targets is named, not left implicit.
   - **Winter 2028: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
   - Winter 2028 aid confirmation; exchange funding/award applications open.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Isaac Sim: domain randomization + synthetic sensor generation.
@@ -1305,10 +1305,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 1: ship the end-to-end demo (VLM prompt → joint targets → sim execution) by Feb 2028.
@@ -1323,10 +1323,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 2: begin — LLM agentic pipeline driving a simulated humanoid task.
@@ -1341,10 +1341,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - LeetCode: Blind 75 second pass (timed, C++); interview drills.
@@ -1359,10 +1359,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Isaac Sim: domain randomization + synthetic sensor generation.
@@ -1378,10 +1378,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 1: ship the end-to-end demo (VLM prompt → joint targets → sim execution) by Feb 2028.
@@ -1396,10 +1396,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 2: begin — LLM agentic pipeline driving a simulated humanoid task.
@@ -1414,10 +1414,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - LeetCode: Blind 75 second pass (timed, C++); interview drills.
@@ -1432,10 +1432,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Exchange funding**: apply to UCalgary International bursaries + CLIC/exchange awards; exchange budget finalized.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Isaac Sim: domain randomization + synthetic sensor generation.
@@ -1450,10 +1450,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 1: ship the end-to-end demo (VLM prompt → joint targets → sim execution) by Feb 2028.
@@ -1468,10 +1468,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 2: begin — LLM agentic pipeline driving a simulated humanoid task.
@@ -1486,10 +1486,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - LeetCode: Blind 75 second pass (timed, C++); interview drills.
@@ -1504,10 +1504,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Isaac Sim: domain randomization + synthetic sensor generation.
@@ -1522,10 +1522,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 1: ship the end-to-end demo (VLM prompt → joint targets → sim execution) by Feb 2028.
@@ -1540,10 +1540,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
   - Project 2: begin — LLM agentic pipeline driving a simulated humanoid task.
@@ -1558,10 +1558,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Co-op work-term fee; China work-permit (Z) + visa documents; insurance.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (community string ensemble / orchestra, Calgary).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCSC / Dinos).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - LeetCode: maintenance (2–3/wk) to stay sharp during the work term.
@@ -1581,10 +1581,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Co-op payroll + tax setup; open a tracking file for foreign income (T4/FRC).
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Write-up: publish two portfolio writeups (EN/中文) with demos.
@@ -1599,10 +1599,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Project 2: ship by Jun 2028 (before the exchange term).
@@ -1617,10 +1617,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Applied: bring ROS2 / Isaac Sim skills into the co-op; document work internally.
@@ -1635,10 +1635,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - LeetCode: maintenance (2–3/wk) to stay sharp during the work term.
@@ -1653,10 +1653,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Write-up: publish two portfolio writeups (EN/中文) with demos.
@@ -1671,10 +1671,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Project 2: ship by Jun 2028 (before the exchange term).
@@ -1689,10 +1689,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Applied: bring ROS2 / Isaac Sim skills into the co-op; document work internally.
@@ -1707,10 +1707,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - LeetCode: maintenance (2–3/wk) to stay sharp during the work term.
@@ -1725,10 +1725,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Write-up: publish two portfolio writeups (EN/中文) with demos.
@@ -1743,10 +1743,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Project 2: ship by Jun 2028 (before the exchange term).
@@ -1761,10 +1761,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Applied: bring ROS2 / Isaac Sim skills into the co-op; document work internally.
@@ -1779,10 +1779,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - LeetCode: maintenance (2–3/wk) to stay sharp during the work term.
@@ -1797,10 +1797,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Write-up: publish two portfolio writeups (EN/中文) with demos.
@@ -1815,10 +1815,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Project 2: ship by Jun 2028 (before the exchange term).
@@ -1833,10 +1833,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Applied: bring ROS2 / Isaac Sim skills into the co-op; document work internally.
@@ -1851,10 +1851,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Exchange budget: host fees, residence deposit, medical insurance, flights.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - LeetCode: maintenance (2–3/wk) to stay sharp during the work term.
@@ -1869,10 +1869,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Co-op + ship Project 2 (Beijing)**.
   - Write-up: publish two portfolio writeups (EN/中文) with demos.
@@ -1887,10 +1887,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing studio + expat chamber group).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy (foreigner-friendly)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -1910,10 +1910,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -1929,10 +1929,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -1947,10 +1947,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -1965,10 +1965,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -1983,10 +1983,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2001,10 +2001,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2019,10 +2019,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2037,10 +2037,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2055,10 +2055,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2073,10 +2073,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2091,10 +2091,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2109,10 +2109,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2127,10 +2127,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2145,10 +2145,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2163,10 +2163,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2181,10 +2181,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2199,10 +2199,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2217,10 +2217,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2237,10 +2237,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2255,10 +2255,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Exchange-term funding confirmation; scholarship renewals.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2273,10 +2273,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2291,10 +2291,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2309,10 +2309,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2327,10 +2327,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2345,10 +2345,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2363,10 +2363,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2381,10 +2381,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2399,10 +2399,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2417,10 +2417,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2435,10 +2435,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2453,10 +2453,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2471,10 +2471,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2489,10 +2489,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2507,10 +2507,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2525,10 +2525,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2543,10 +2543,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2561,10 +2561,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2579,10 +2579,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
@@ -2597,10 +2597,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - Reading: humanoid robotics papers; write summaries in EN + 中文.
@@ -2615,10 +2615,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
@@ -2633,10 +2633,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
   - LLM agents: build agentic pipelines (tool use, planning, eval harness).
@@ -2651,10 +2651,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Portfolio: clean repos, EN/中文 READMEs, demo videos.
@@ -2669,10 +2669,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing expat / conservatory ensemble).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade Beijing pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - LeetCode: 3–4/wk maintenance.
@@ -2692,10 +2692,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Internship: ship a real AI/LLM/robotics feature; write up results.
@@ -2710,10 +2710,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Portfolio: clean repos, EN/中文 READMEs, demo videos.
@@ -2728,10 +2728,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - LeetCode: 3–4/wk maintenance.
@@ -2746,10 +2746,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Internship: ship a real AI/LLM/robotics feature; write up results.
@@ -2764,10 +2764,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Portfolio: clean repos, EN/中文 READMEs, demo videos.
@@ -2782,10 +2782,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - LeetCode: 3–4/wk maintenance.
@@ -2800,10 +2800,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Internship: ship a real AI/LLM/robotics feature; write up results.
@@ -2818,10 +2818,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Applied internship + portfolio polish**.
   - Portfolio: clean repos, EN/中文 READMEs, demo videos.
@@ -2836,10 +2836,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Beijing/Shenzhen expat group).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Beijing/Shenzhen BJJ academy).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Olympic-grade pool).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Beijing/Shenzhen yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -2859,10 +2859,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -2879,10 +2879,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - **Fall 2029: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -2897,10 +2897,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Final-year Student Aid confirmation; graduation audit fee.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -2915,10 +2915,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -2933,10 +2933,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -2951,10 +2951,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -2969,10 +2969,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
   - Orchestra audition prep run-through — mock audition with a peer.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
@@ -2988,10 +2988,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3006,10 +3006,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3024,10 +3024,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3042,10 +3042,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3060,10 +3060,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3078,10 +3078,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3096,10 +3096,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3114,10 +3114,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3132,10 +3132,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3150,10 +3150,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3168,10 +3168,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3186,10 +3186,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3206,10 +3206,10 @@ portfolio targets is named, not left implicit.
   - **Winter 2030: confirm full-time status (≥9 units)** in Quest → upload enrolment confirmation to Alberta Student Aid.
   - Final-year aid confirmation; confirm no outstanding fees before convocation.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3224,10 +3224,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3242,10 +3242,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3260,10 +3260,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
   - Orchestra audition prep run-through — mock audition with a peer.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
@@ -3279,10 +3279,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3297,10 +3297,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3315,10 +3315,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3333,10 +3333,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3351,10 +3351,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3369,10 +3369,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3387,10 +3387,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3405,10 +3405,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3423,10 +3423,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3441,10 +3441,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3459,10 +3459,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3477,10 +3477,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
@@ -3495,10 +3495,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3513,10 +3513,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — aerobic base (2.0–2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3531,10 +3531,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3549,10 +3549,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
   - Orchestra audition prep run-through — mock audition with a peer.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
@@ -3568,10 +3568,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Capstone: VLM-driven humanoid manipulation — build Jan–Mar, defense Apr 2030.
@@ -3586,10 +3586,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - LeetCode: NeetCode 150 timed twice (Oct–Dec 2029, Mar–May 2030); mock interviews.
@@ -3604,10 +3604,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - C++/Python fluency: system design for robotics + ML roles.
@@ -3622,10 +3622,10 @@ portfolio targets is named, not left implicit.
 - **Financial Action Items**
   - Standing: log spend weekly; no filing due this week.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (advanced Calgary orchestra audition track).
-  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (NW Calgary BJJ academy (blue->purple)).
-  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (UCalgary campus swim squad).
-  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (NW Calgary yoga studio); active recovery, not extra load.
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3× (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3× (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3× (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
   - Pipeline: grad-school + job applications Jan–Mar 2030.
