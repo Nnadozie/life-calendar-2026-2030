@@ -1,8 +1,8 @@
 # Master Operational Calendar — Oct 2026 → Jun 2030
 ## Calgary → Beijing · CS (Humanoid Robotics & AI) · Violin · Jiu-Jitsu · Swimming · Yoga
 
-**Generated:** deterministic build (`calendar/gen.py`). **Weeks:** 196
-(Mon 2026-09-28 → Sun 2030-06-30).
+**Generated:** deterministic build (`calendar/gen.py`). **Weeks:** 197
+(Mon 2026-09-21 → Sun 2030-06-30).
 
 > **How to read this.** Every week opens with a **Critical Path — Meetings &
 > Applications** lane: the application or meeting *due* that week, the enabling
@@ -25,7 +25,7 @@
 
 | Phase | Window | Where | What |
 |---|---|---|---|
-| 1 | 2026-09-28 → 2026-12-31 | 100 Howse Terrace, Calgary | Pre-Launch (applications + prep) |
+| 1 | 2026-09-21 → 2026-12-31 | 100 Howse Terrace, Calgary | Pre-Launch (applications + prep) |
 | 2 | 2027-01-01 → 2027-04-30 | Calgary | Winter 2027 Open Studies |
 | 3 | 2027-05-01 → 2027-08-31 | Calgary | Spring/Summer 2027 Bridge |
 | 4 | 2027-09-01 → 2027-12-31 | Calgary | Fall 2027 BSc CS Transition |
@@ -81,7 +81,35 @@ calendrical.
 - [ ] Alberta Student Aid profile created; Income Support reports filed Sep-Dec
 - [ ] Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
 
-### W001 · Mon 2026-09-28 → Sun 2026-10-04
+### W001 · Mon 2026-09-21 → Sun 2026-09-27
+*Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
+
+- **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** **Submit the Alberta Income Support application** (this is the pending one). Monthly reports then follow Sep-Dec 2026 (~$600 CAD/mo).
+  - **Start now (needed in 2 wk):** Confirm UCalgary Open Studies admission; accept the offer in the student portal.
+  - On the horizon: Book — Book the Open Studies advising appointment — map the pathway into BSc Computer Science. (by Oct 14, 2026).
+  - On the horizon: Apply — Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps. (by Oct 21, 2026).
+  - **This week enables:** Apply by Oct 05; Book by Oct 14.
+- **Academic / Course Milestones**
+  - Prep: CS foundations — work CPSC 231-level material (2-3 sessions this week).
+- **Financial Action Items**
+  - Standing: log spend weekly; keep receipts (income-support evidence).
+- **Training & Artistic Schedule**
+  - **Growth target (this phase):** Violin: foundation — intonation, bow control, Suzuki 1-2. BJJ: white belt — fundamental mechanics, escapes, positional control. Swim: aerobic base (2.0-2.5 km), stroke efficiency. Yoga: 3x/wk, hip + shoulder opening.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
+- **Weekly Time Budget**
+  - Time budget — Academic 8h · LeetCode 7h · Project 2h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
+  - **Leading indicator to watch this week:** violin practice streak (days this week).
+
+### W002 · Mon 2026-09-28 → Sun 2026-10-04
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -91,37 +119,9 @@ calendrical.
   - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
   - **This week enables:** Apply by Oct 05; Book by Oct 14.
 - **Academic / Course Milestones**
-  - Prep: CS foundations — work CPSC 231-level material (2-3 sessions this week).
-- **Financial Action Items**
-  - **Alberta Income Support report — Sep 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
-- **Training & Artistic Schedule**
-  - **Growth target (this phase):** Violin: foundation — intonation, bow control, Suzuki 1-2. BJJ: white belt — fundamental mechanics, escapes, positional control. Swim: aerobic base (2.0-2.5 km), stroke efficiency. Yoga: 3x/wk, hip + shoulder opening.
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
-  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
-  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
-  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Calibration & Blind 75 (pass 1), gently**.
-  - C++: rebuild core DS from scratch (vector, map, heap), RAII + smart pointers.
-- **Weekly Time Budget**
-  - Time budget — Academic 8h · LeetCode 7h · Project 2h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
-  - **Leading indicator to watch this week:** violin practice streak (days this week).
-
-### W002 · Mon 2026-10-05 → Sun 2026-10-11
-*Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
-
-- **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Confirm UCalgary Open Studies admission; accept the offer in the student portal.
-  - **Start now (needed in 2 wk):** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
-  - On the horizon: Book — Book the Open Studies advising appointment — map the pathway into BSc Computer Science. (by Oct 14, 2026).
-  - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
-  - **This week enables:** Book by Oct 14; Apply by Oct 21.
-- **Academic / Course Milestones**
   - Prep: Chinese — build a 150-character + tone base ahead of CHIN 205.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - **Alberta Income Support report — Sep 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -136,19 +136,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W003 · Mon 2026-10-12 → Sun 2026-10-18
+### W003 · Mon 2026-10-05 → Sun 2026-10-11
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Book:** Book the Open Studies advising appointment — map the pathway into BSc Computer Science.
-  - **Start now (needed in 3 wk):** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
-  - On the horizon: Apply — Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps. (by Oct 21, 2026).
-  - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
-  - **This week enables:** Apply by Oct 21; Apply by Nov 02.
+  - **DUE THIS WEEK — Apply:** Confirm UCalgary Open Studies admission; accept the offer in the student portal.
+  - **Start now (needed in 2 wk):** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
+  - On the horizon: Book — Book the Open Studies advising appointment — map the pathway into BSc Computer Science. (by Oct 14, 2026).
+  - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
+  - **This week enables:** Book by Oct 14; Apply by Oct 21.
 - **Academic / Course Milestones**
   - Prep: math — refresh functions, limits and matrices ahead of MATH 211.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -163,15 +163,15 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W004 · Mon 2026-10-19 → Sun 2026-10-25
+### W004 · Mon 2026-10-12 → Sun 2026-10-18
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
-  - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
+  - **DUE THIS WEEK — Book:** Book the Open Studies advising appointment — map the pathway into BSc Computer Science.
+  - **Start now (needed in 3 wk):** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
+  - On the horizon: Apply — Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps. (by Oct 21, 2026).
   - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
-  - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
-  - **This week enables:** Apply by Nov 02; Apply by Nov 09.
+  - **This week enables:** Apply by Oct 21; Apply by Nov 02.
 - **Academic / Course Milestones**
   - Prep: tooling — C++/Python environment + a `leetcode-notes` repo (slow and steady).
 - **Financial Action Items**
@@ -190,19 +190,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W005 · Mon 2026-10-26 → Sun 2026-11-01
+### W005 · Mon 2026-10-19 → Sun 2026-10-25
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots).
+  - **DUE THIS WEEK — Apply:** Prerequisite audit: confirm English 30-1 + Math 30-1 (or equivalents) against BSc CS requirements; resolve gaps.
   - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
+  - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
   - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
-  - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
   - **This week enables:** Apply by Nov 02; Apply by Nov 09.
 - **Academic / Course Milestones**
   - Prep: read the BSc CS program requirements and map your own pathway.
 - **Financial Action Items**
-  - **Alberta Income Support report — Oct 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -217,19 +217,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W006 · Mon 2026-11-02 → Sun 2026-11-08
+### W006 · Mon 2026-10-26 → Sun 2026-11-01
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
-  - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
+  - **Start now (needed in 2 wk):** Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots).
+  - On the horizon: Apply — Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term. (by Nov 02, 2026).
   - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
   - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
-  - **This week enables:** Apply by Nov 09; Apply by Nov 30.
+  - **This week enables:** Apply by Nov 02; Apply by Nov 09.
 - **Academic / Course Milestones**
   - Prep: violin — aim for a 5-day practice streak; meet a potential teacher.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - **Alberta Income Support report — Oct 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -244,19 +244,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W007 · Mon 2026-11-09 → Sun 2026-11-15
+### W007 · Mon 2026-11-02 → Sun 2026-11-08
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots).
-  - **Start now (needed in 3 wk):** Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency).
+  - **DUE THIS WEEK — Apply:** Apply to the UCalgary Science Co-op program — the gate for the Summer 2028 Beijing work term.
+  - On the horizon: Apply — Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots). (by Nov 09, 2026).
+  - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
   - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
-  - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
-  - **This week enables:** Apply by Nov 30; Fee by Dec 14.
+  - **This week enables:** Apply by Nov 09; Apply by Nov 30.
 - **Academic / Course Milestones**
   - Prep: settle a repeatable weekly swim + BJJ schedule before term starts.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -271,14 +271,14 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W008 · Mon 2026-11-16 → Sun 2026-11-22
+### W008 · Mon 2026-11-09 → Sun 2026-11-15
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
+  - **DUE THIS WEEK — Apply:** Register for Winter 2027: CPSC 231, MATH 211, CHIN 205 (lock lecture + lab slots).
+  - **Start now (needed in 3 wk):** Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency).
   - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
   - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
-  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
   - **This week enables:** Apply by Nov 30; Fee by Dec 14.
 - **Academic / Course Milestones**
   - Prep: CS foundations — work CPSC 231-level material (2-3 sessions this week).
@@ -298,7 +298,7 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W009 · Mon 2026-11-23 → Sun 2026-11-29
+### W009 · Mon 2026-11-16 → Sun 2026-11-22
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -325,19 +325,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W010 · Mon 2026-11-30 → Sun 2026-12-06
+### W010 · Mon 2026-11-23 → Sun 2026-11-29
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency).
-  - **Start now (needed in 2 wk):** Winter 2027 tuition deadline; order CHIN 205 audio + materials.
+  - On the horizon: Apply — Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency). (by Nov 30, 2026).
+  - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
   - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
   - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
-  - **This week enables:** Fee by Dec 14; Unlock by Jan 15.
+  - **This week enables:** Apply by Nov 30; Fee by Dec 14.
 - **Academic / Course Milestones**
   - Prep: math — refresh functions, limits and matrices ahead of MATH 211.
 - **Financial Action Items**
-  - **Alberta Income Support report — Nov 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -352,19 +352,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
-### W011 · Mon 2026-12-07 → Sun 2026-12-13
+### W011 · Mon 2026-11-30 → Sun 2026-12-06
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
+  - **DUE THIS WEEK — Apply:** Create the Alberta Student Aid profile; gather 2027-28 documents (income, residency).
+  - **Start now (needed in 2 wk):** Winter 2027 tuition deadline; order CHIN 205 audio + materials.
   - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
   - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
-  - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
   - **This week enables:** Fee by Dec 14; Unlock by Jan 15.
 - **Academic / Course Milestones**
   - Prep: tooling — C++/Python environment + a `leetcode-notes` repo (slow and steady).
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - **Alberta Income Support report — Nov 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -379,19 +379,19 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
 
-### W012 · Mon 2026-12-14 → Sun 2026-12-20
+### W012 · Mon 2026-12-07 → Sun 2026-12-13
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Fee:** Winter 2027 tuition deadline; order CHIN 205 audio + materials.
+  - On the horizon: Fee — Winter 2027 tuition deadline; order CHIN 205 audio + materials. (by Dec 14, 2026).
   - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
   - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
   - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
-  - **This week enables:** Unlock by Jan 15; Apply by Mar 01.
+  - **This week enables:** Fee by Dec 14; Unlock by Jan 15.
 - **Academic / Course Milestones**
   - Prep: read the BSc CS program requirements and map your own pathway.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -406,14 +406,14 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** sessions completed: BJJ / swim / yoga.
 
-### W013 · Mon 2026-12-21 → Sun 2026-12-27
+### W013 · Mon 2026-12-14 → Sun 2026-12-20
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Fee:** Winter 2027 tuition deadline; order CHIN 205 audio + materials.
   - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
   - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
   - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
-  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - **This week enables:** Unlock by Jan 15; Apply by Mar 01.
 - **Academic / Course Milestones**
   - Prep: violin — aim for a 5-day practice streak; meet a potential teacher.
@@ -425,15 +425,15 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
   - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
-  - LeetCode: finish Blind 75; begin NeetCode 150 (lists, stacks, binary search, trees).
+  - Sprint: **Calibration & Blind 75 (pass 1), gently**.
+  - C++: rebuild core DS from scratch (vector, map, heap), RAII + smart pointers.
 - **Weekly Time Budget**
   - Time budget — Academic 8h · LeetCode 7h · Project 2h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** violin practice streak (days this week).
 
-### W014 · Mon 2026-12-28 → Sun 2027-01-03
+### W014 · Mon 2026-12-21 → Sun 2026-12-27
 *Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
 
 - **Critical Path — Meetings & Applications**
@@ -445,7 +445,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Prep: settle a repeatable weekly swim + BJJ schedule before term starts.
 - **Financial Action Items**
-  - **Alberta Income Support report — Dec 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -460,6 +460,33 @@ calendrical.
   - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
   - **Leading indicator to watch this week:** LeetCode problems solved (running total).
 
+### W015 · Mon 2026-12-28 → Sun 2027-01-03
+*Phase 1 · Pre-Launch (applications + prep) (100 Howse Terrace, Calgary) · Term: Pre-enrolment (no courses)*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Unlock — Confirm full-time status (>=9 units) to Alberta Student Aid; upload enrolment confirmation. (by Jan 15, 2027).
+  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
+  - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
+  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
+  - **This week enables:** Unlock by Jan 15; Apply by Mar 01.
+- **Academic / Course Milestones**
+  - Prep: CS foundations — work CPSC 231-level material (2-3 sessions this week).
+- **Financial Action Items**
+  - **Alberta Income Support report — Dec 2026** (~$600 CAD/mo). Submit before end of month; keep bank statements.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur; 'Play with the Civic')).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club (near UCalgary)).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (inner city) or Vivo group fitness (NW)); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
+  - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
+- **Weekly Time Budget**
+  - Time budget — Academic 8h · LeetCode 7h · Project 2h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 1 gate** (4 criteria — phase ends when these are TRUE, not on a date): Open Studies admission confirmed and Winter 2027 registered (CPSC 231 / MATH 211 / CHIN 205) | Science Co-op application submitted (unlocks the Summer 2028 Beijing work term) | Alberta Student Aid profile created; Income Support reports filed Sep-Dec | Training base established: a 5-day violin streak, plus BJJ / swim / yoga routines locked in
+  - **Leading indicator to watch this week:** CHIN characters + tone pairs learned.
+
 
 ---
 
@@ -472,7 +499,7 @@ calendrical.
 - [ ] >=9 units maintained every term (Student Aid stays active)
 - [ ] Blind 75 complete; LeetCode habit is daily and durable
 
-### W015 · Mon 2027-01-04 → Sun 2027-01-10
+### W016 · Mon 2027-01-04 → Sun 2027-01-10
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -487,20 +514,20 @@ calendrical.
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: early intermediate — shifting, vibrato intro, scales. BJJ: white belt -> blue belt path (guard passing, submissions). Swim: threshold sets (200s/400s).
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur)).
-  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
-  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
-  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
+  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3x (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3x (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Blind 75 -> NeetCode 150 (start)**.
-  - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
+  - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
-  - **Leading indicator to watch this week:** LeetCode solved this week.
+  - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W016 · Mon 2027-01-11 → Sun 2027-01-17
+### W017 · Mon 2027-01-11 → Sun 2027-01-17
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -514,33 +541,6 @@ calendrical.
 - **Financial Action Items**
   - **Winter 2027: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
-  - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
-  - **Swim** 3x (Tue/Thu/Sat) — threshold sets (200s / 400s) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
-  - **Yoga** 3x (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
-  - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
-  - **Leading indicator to watch this week:** violin streak (target 5+ days).
-
-### W017 · Mon 2027-01-18 → Sun 2027-01-24
-*Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
-  - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
-  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
-  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
-  - **This week enables:** Apply by Mar 01; Book by Mar 15.
-- **Academic / Course Milestones**
-  - **Winter 2027 add/drop deadline** — last day to add/swap without a W (Jan 22, 2027).
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
   - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
@@ -554,7 +554,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W018 · Mon 2027-01-25 → Sun 2027-01-31
+### W018 · Mon 2027-01-18 → Sun 2027-01-24
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -564,7 +564,7 @@ calendrical.
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - **This week enables:** Apply by Mar 01; Book by Mar 15.
 - **Academic / Course Milestones**
-  - Standing: check Quest/D2L for the week; no summative deadline is expected.
+  - **Winter 2027 add/drop deadline** — last day to add/swap without a W (Jan 22, 2027).
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -581,7 +581,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W019 · Mon 2027-02-01 → Sun 2027-02-07
+### W019 · Mon 2027-01-25 → Sun 2027-01-31
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -593,7 +593,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -608,7 +608,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W020 · Mon 2027-02-08 → Sun 2027-02-14
+### W020 · Mon 2027-02-01 → Sun 2027-02-07
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -618,9 +618,9 @@ calendrical.
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - **This week enables:** Apply by Mar 01; Book by Mar 15.
 - **Academic / Course Milestones**
-  - First real assessments: CPSC 231 assignments, MATH 211 problem sets, CHIN 205 character drills.
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -635,17 +635,17 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W021 · Mon 2027-02-15 → Sun 2027-02-21
+### W021 · Mon 2027-02-08 → Sun 2027-02-14
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Register for Spring/Summer 2027: CPSC 233 + CHIN 207.
+  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
   - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - **This week enables:** Apply by Mar 01; Book by Mar 15.
 - **Academic / Course Milestones**
-  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
+  - First real assessments: CPSC 231 assignments, MATH 211 problem sets, CHIN 205 character drills.
 - **Financial Action Items**
   - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
@@ -662,17 +662,17 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W022 · Mon 2027-02-22 → Sun 2027-02-28
+### W022 · Mon 2027-02-15 → Sun 2027-02-21
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
+  - **Start now (needed in 2 wk):** Register for Spring/Summer 2027: CPSC 233 + CHIN 207.
   - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - **This week enables:** Apply by Mar 01; Book by Mar 15.
 - **Academic / Course Milestones**
-  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -689,19 +689,19 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W023 · Mon 2027-03-01 → Sun 2027-03-07
+### W023 · Mon 2027-02-22 → Sun 2027-02-28
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Register for Spring/Summer 2027: CPSC 233 + CHIN 207.
+  - On the horizon: Apply — Register for Spring/Summer 2027: CPSC 233 + CHIN 207. (by Mar 01, 2027).
   - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
-  - **This week enables:** Book by Mar 15; Unlock by May 15.
+  - **This week enables:** Apply by Mar 01; Book by Mar 15.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -716,19 +716,19 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W024 · Mon 2027-03-08 → Sun 2027-03-14
+### W024 · Mon 2027-03-01 → Sun 2027-03-07
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** Midterm triage — if any course is below B-, book tutoring / meet the instructor.
+  - **DUE THIS WEEK — Apply:** Register for Spring/Summer 2027: CPSC 233 + CHIN 207.
+  - On the horizon: Book — Midterm triage — if any course is below B-, book tutoring / meet the instructor. (by Mar 15, 2027).
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
-  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - **This week enables:** Book by Mar 15; Unlock by May 15.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
@@ -743,15 +743,15 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
-### W025 · Mon 2027-03-15 → Sun 2027-03-21
+### W025 · Mon 2027-03-08 → Sun 2027-03-14
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Book:** Midterm triage — if any course is below B-, book tutoring / meet the instructor.
+  - **Start now (needed in 1 wk):** Midterm triage — if any course is below B-, book tutoring / meet the instructor.
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
-  - **This week enables:** Unlock by May 15; Apply by Jun 14.
+  - **This week enables:** Book by Mar 15; Unlock by May 15.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
@@ -770,14 +770,14 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W026 · Mon 2027-03-22 → Sun 2027-03-28
+### W026 · Mon 2027-03-15 → Sun 2027-03-21
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Book:** Midterm triage — if any course is below B-, book tutoring / meet the instructor.
   - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
-  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - **This week enables:** Unlock by May 15; Apply by Jun 14.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
@@ -797,7 +797,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W027 · Mon 2027-03-29 → Sun 2027-04-04
+### W027 · Mon 2027-03-22 → Sun 2027-03-28
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -824,7 +824,34 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
 
-### W028 · Mon 2027-04-05 → Sun 2027-04-11
+### W028 · Mon 2027-03-29 → Sun 2027-04-04
+*Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
+  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
+  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
+  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
+  - **This week enables:** Unlock by May 15; Apply by Jun 14.
+- **Academic / Course Milestones**
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
+- **Financial Action Items**
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
+  - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
+  - **Leading indicator to watch this week:** violin streak (target 5+ days).
+
+### W029 · Mon 2027-04-05 → Sun 2027-04-11
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -838,34 +865,6 @@ calendrical.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (private lessons + Calgary Civic Symphony (amateur)).
-  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
-  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
-  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
-  - Course synergy: re-implement CPSC 231 / MATH 211 concepts in C++ and Python.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
-  - **Leading indicator to watch this week:** violin streak (target 5+ days).
-
-### W029 · Mon 2027-04-12 → Sun 2027-04-18
-*Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
-  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
-  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
-  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
-  - **This week enables:** Unlock by May 15; Apply by Jun 14.
-- **Academic / Course Milestones**
-  - **Winter 2027 withdrawal deadline (W)** — last day to drop with a W (Apr 13, 2027).
-  - **Winter 2027 final exams begin** — Apr 16->Apr 27, 2027.
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (private lessons + Calgary Civic Symphony (amateur)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
   - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
@@ -879,7 +878,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CPSC 231 / MATH 211 assignment % done.
 
-### W030 · Mon 2027-04-19 → Sun 2027-04-25
+### W030 · Mon 2027-04-12 → Sun 2027-04-18
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -889,7 +888,8 @@ calendrical.
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - **This week enables:** Unlock by May 15; Apply by Jun 14.
 - **Academic / Course Milestones**
-  - Standing: work ahead on the next assignment so the weekend stays free.
+  - **Winter 2027 withdrawal deadline (W)** — last day to drop with a W (Apr 13, 2027).
+  - **Winter 2027 final exams begin** — Apr 16->Apr 27, 2027.
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -906,7 +906,7 @@ calendrical.
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** CHIN 205 characters learned.
 
-### W031 · Mon 2027-04-26 → Sun 2027-05-02
+### W031 · Mon 2027-04-19 → Sun 2027-04-25
 *Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -925,13 +925,40 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
   - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
-  - Gazebo: URDF model of a simple robot; simulate joints + sensors.
+  - Sprint: **Blind 75 -> NeetCode 150 (start)**.
+  - Python: idiomatic Python + complexity analysis; NumPy fundamentals.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
   - **Leading indicator to watch this week:** LeetCode solved this week.
+
+### W032 · Mon 2027-04-26 → Sun 2027-05-02
+*Phase 2 · Winter 2027 Open Studies (Calgary) · Term: Winter 2027*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Unlock — Confirm the Spring/Summer full-time bridge (9 units) so aid continues. (by May 15, 2027).
+  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
+  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
+  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
+  - **This week enables:** Unlock by May 15; Apply by Jun 14.
+- **Academic / Course Milestones**
+  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+- **Financial Action Items**
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (private lessons + Calgary Civic Symphony (amateur)).
+  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village (NW) or Affinity Academy (Varsity/Nolan Hill)).
+  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Vivo Lane Pool (NW) or Foothills Masters Swim Club).
+  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage or Vivo group fitness (NW)); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
+  - PyTorch: tensors, autograd, first CNN training script.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 2 gate** (4 criteria — phase ends when these are TRUE, not on a date): Winter 2027 passed: CPSC 231, MATH 211, CHIN 205 with GPA >= 2.50 (Science) | Spring/Summer 2027 registered (CPSC 233 + CHIN 207) | >=9 units maintained every term (Student Aid stays active) | Blind 75 complete; LeetCode habit is daily and durable
+  - **Leading indicator to watch this week:** violin streak (target 5+ days).
 
 
 ---
@@ -944,7 +971,7 @@ calendrical.
 - [ ] Fall 2027 registered (CPSC 331 + CHIN 301)
 - [ ] NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
 
-### W032 · Mon 2027-05-03 → Sun 2027-05-09
+### W033 · Mon 2027-05-03 → Sun 2027-05-09
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -960,33 +987,6 @@ calendrical.
   - **Spring 2027: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: ensemble-ready — part-reading, sight-reading, first ensemble rep. BJJ: consolidating blue belt. Swim: IM + stroke work.
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
-  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
-  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
-  - PyTorch: tensors, autograd, first CNN training script.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
-  - **Leading indicator to watch this week:** swim threshold-set times.
-
-### W033 · Mon 2027-05-10 → Sun 2027-05-16
-*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
-
-- **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Unlock:** Confirm the Spring/Summer full-time bridge (9 units) so aid continues.
-  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
-  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
-  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
-  - **This week enables:** Apply by Jun 14; Apply by Aug 09.
-- **Academic / Course Milestones**
-  - Standing: check Quest/D2L for the week; no summative deadline is expected.
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
   - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
@@ -1000,14 +1000,14 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W034 · Mon 2027-05-17 → Sun 2027-05-23
+### W034 · Mon 2027-05-10 → Sun 2027-05-16
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Unlock:** Confirm the Spring/Summer full-time bridge (9 units) so aid continues.
   - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
-  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - **This week enables:** Apply by Jun 14; Apply by Aug 09.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
@@ -1027,7 +1027,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W035 · Mon 2027-05-24 → Sun 2027-05-30
+### W035 · Mon 2027-05-17 → Sun 2027-05-23
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1054,7 +1054,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W036 · Mon 2027-05-31 → Sun 2027-06-06
+### W036 · Mon 2027-05-24 → Sun 2027-05-30
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1081,20 +1081,19 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W037 · Mon 2027-06-07 → Sun 2027-06-13
+### W037 · Mon 2027-05-31 → Sun 2027-06-06
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** Alberta Student Aid 2027-28 application opens — submit early.
+  - On the horizon: Apply — Alberta Student Aid 2027-28 application opens — submit early. (by Jun 14, 2027).
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - **This week enables:** Apply by Jun 14; Apply by Aug 09.
 - **Academic / Course Milestones**
-  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
-  - CPSC 233 project checkpoint; CHIN 207 oral assessment.
+  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1109,20 +1108,20 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W038 · Mon 2027-06-14 → Sun 2027-06-20
+### W038 · Mon 2027-06-07 → Sun 2027-06-13
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Alberta Student Aid 2027-28 application opens — submit early.
+  - **Start now (needed in 1 wk):** Alberta Student Aid 2027-28 application opens — submit early.
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
-  - **This week enables:** Apply by Aug 09; Apply by Oct 04.
+  - **This week enables:** Apply by Jun 14; Apply by Aug 09.
 - **Academic / Course Milestones**
-  - **Spring 2027 withdrawal deadline (W)** — last day to drop with a W (Jun 15, 2027).
-  - **Spring 2027 final exams begin** — Jun 18->Jun 22, 2027.
+  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
+  - CPSC 233 project checkpoint; CHIN 207 oral assessment.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1137,17 +1136,18 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W039 · Mon 2027-06-21 → Sun 2027-06-27
+### W039 · Mon 2027-06-14 → Sun 2027-06-20
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Alberta Student Aid 2027-28 application opens — submit early.
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
-  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - **This week enables:** Apply by Aug 09; Apply by Oct 04.
 - **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
+  - **Spring 2027 withdrawal deadline (W)** — last day to drop with a W (Jun 15, 2027).
+  - **Spring 2027 final exams begin** — Jun 18->Jun 22, 2027.
 - **Financial Action Items**
   - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
@@ -1164,8 +1164,8 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W040 · Mon 2027-06-28 → Sun 2027-07-04
-*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
+### W040 · Mon 2027-06-21 → Sun 2027-06-27
+*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Spring 2027*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
@@ -1174,10 +1174,9 @@ calendrical.
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - **This week enables:** Apply by Aug 09; Apply by Oct 04.
 - **Academic / Course Milestones**
-  - **Summer 2027 term start** — classes begin (CPSC 233 (cont.), CHIN 207 (cont.)). _(UCalgary published date)_ Confirm sections, labs, D2L.
-  - **Summer 2027 add/drop deadline** — last day to add/swap without a W (Jul 02, 2027).
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - **Summer 2027: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1192,7 +1191,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W041 · Mon 2027-07-05 → Sun 2027-07-11
+### W041 · Mon 2027-06-28 → Sun 2027-07-04
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1202,9 +1201,10 @@ calendrical.
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - **This week enables:** Apply by Aug 09; Apply by Oct 04.
 - **Academic / Course Milestones**
-  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
+  - **Summer 2027 term start** — classes begin (CPSC 233 (cont.), CHIN 207 (cont.)). _(UCalgary published date)_ Confirm sections, labs, D2L.
+  - **Summer 2027 add/drop deadline** — last day to add/swap without a W (Jul 02, 2027).
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - **Summer 2027: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1219,7 +1219,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W042 · Mon 2027-07-12 → Sun 2027-07-18
+### W042 · Mon 2027-07-05 → Sun 2027-07-11
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1231,7 +1231,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1246,7 +1246,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W043 · Mon 2027-07-19 → Sun 2027-07-25
+### W043 · Mon 2027-07-12 → Sun 2027-07-18
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1273,11 +1273,11 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W044 · Mon 2027-07-26 → Sun 2027-08-01
+### W044 · Mon 2027-07-19 → Sun 2027-07-25
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Register for Fall 2027: CPSC 331 + CHIN 301.
+  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
@@ -1300,19 +1300,19 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W045 · Mon 2027-08-02 → Sun 2027-08-08
+### W045 · Mon 2027-07-26 → Sun 2027-08-01
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
+  - **Start now (needed in 2 wk):** Register for Fall 2027: CPSC 331 + CHIN 301.
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - **This week enables:** Apply by Aug 09; Apply by Oct 04.
 - **Academic / Course Milestones**
-  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1327,20 +1327,19 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
 
-### W046 · Mon 2027-08-09 → Sun 2027-08-15
+### W046 · Mon 2027-08-02 → Sun 2027-08-08
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Register for Fall 2027: CPSC 331 + CHIN 301.
+  - On the horizon: Apply — Register for Fall 2027: CPSC 331 + CHIN 301. (by Aug 09, 2027).
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
-  - **This week enables:** Apply by Oct 04; Apply by Nov 08.
+  - **This week enables:** Apply by Aug 09; Apply by Oct 04.
 - **Academic / Course Milestones**
-  - **Summer 2027 withdrawal deadline (W)** — last day to drop with a W (Aug 11, 2027).
-  - **Summer 2027 final exams begin** — Aug 14->Aug 18, 2027.
+  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
@@ -1355,17 +1354,18 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** NeetCode questions cleared.
 
-### W047 · Mon 2027-08-16 → Sun 2027-08-22
+### W047 · Mon 2027-08-09 → Sun 2027-08-15
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Register for Fall 2027: CPSC 331 + CHIN 301.
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
-  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - **This week enables:** Apply by Oct 04; Apply by Nov 08.
 - **Academic / Course Milestones**
-  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+  - **Summer 2027 withdrawal deadline (W)** — last day to drop with a W (Aug 11, 2027).
+  - **Summer 2027 final exams begin** — Aug 14->Aug 18, 2027.
 - **Financial Action Items**
   - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
@@ -1382,8 +1382,8 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** ROS2 topics/nodes working.
 
-### W048 · Mon 2027-08-23 → Sun 2027-08-29
-*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: —*
+### W048 · Mon 2027-08-16 → Sun 2027-08-22
+*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: Summer 2027*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
@@ -1392,7 +1392,7 @@ calendrical.
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - **This week enables:** Apply by Oct 04; Apply by Nov 08.
 - **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -1409,7 +1409,7 @@ calendrical.
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** swim threshold-set times.
 
-### W049 · Mon 2027-08-30 → Sun 2027-09-05
+### W049 · Mon 2027-08-23 → Sun 2027-08-29
 *Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1428,13 +1428,40 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
   - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
-  - LeetCode: timed second pass; start weekly contests.
+  - Sprint: **NeetCode 150 pass 1 + ROS2 / Gazebo entry**.
+  - LeetCode: NeetCode 150 — graphs, DP, intervals, greedy; first full pass by late Aug.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
   - **Leading indicator to watch this week:** CPSC 233 project % done.
+
+### W050 · Mon 2027-08-30 → Sun 2027-09-05
+*Phase 3 · Spring/Summer 2027 Bridge (Calgary) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
+  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
+  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
+  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
+  - **This week enables:** Apply by Oct 04; Apply by Nov 08.
+- **Academic / Course Milestones**
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+- **Financial Action Items**
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy (adult intro)).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club (near UCalgary) / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage (Hatha/Vinyasa)); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
+  - C++: ROS2 node control — controllers, TF2, real-time patterns.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 5h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 3 gate** (3 criteria — phase ends when these are TRUE, not on a date): CPSC 233 + CHIN 207 passed (bridge complete) | Fall 2027 registered (CPSC 331 + CHIN 301) | NeetCode 150 first pass underway; ROS2 + Gazebo fundamentals started
+  - **Leading indicator to watch this week:** NeetCode questions cleared.
 
 
 ---
@@ -1448,7 +1475,7 @@ calendrical.
 - [ ] CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied
 - [ ] Co-op work-term registration (Summer 2028) submitted
 
-### W050 · Mon 2027-09-06 → Sun 2027-09-12
+### W051 · Mon 2027-09-06 → Sun 2027-09-12
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1464,33 +1491,6 @@ calendrical.
   - **Fall 2027: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: ensemble playing (Calgary Civic Symphony). BJJ: blue belt depth. Swim: sprint/interval + endurance mix.
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
-  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
-  - C++: ROS2 node control — controllers, TF2, real-time patterns.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
-  - **Leading indicator to watch this week:** NeetCode 150 progress.
-
-### W051 · Mon 2027-09-13 → Sun 2027-09-19
-*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
-
-- **Critical Path — Meetings & Applications**
-  - **Start now (needed in 3 wk):** Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1).
-  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
-  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
-  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
-  - **This week enables:** Apply by Oct 04; Apply by Nov 08.
-- **Academic / Course Milestones**
-  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
-- **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
   - **Swim** 3x (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -1504,11 +1504,11 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W052 · Mon 2027-09-20 → Sun 2027-09-26
+### W052 · Mon 2027-09-13 → Sun 2027-09-19
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
+  - **Start now (needed in 3 wk):** Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
@@ -1531,7 +1531,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W053 · Mon 2027-09-27 → Sun 2027-10-03
+### W053 · Mon 2027-09-20 → Sun 2027-09-26
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1558,19 +1558,19 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W054 · Mon 2027-10-04 → Sun 2027-10-10
+### W054 · Mon 2027-09-27 → Sun 2027-10-03
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1).
+  - On the horizon: Apply — Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1). (by Oct 04, 2027).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
-  - **This week enables:** Apply by Nov 08; Apply by Nov 15.
+  - **This week enables:** Apply by Oct 04; Apply by Nov 08.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -1585,19 +1585,19 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W055 · Mon 2027-10-11 → Sun 2027-10-17
+### W055 · Mon 2027-10-04 → Sun 2027-10-10
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Change-of-program request: Open Studies -> BSc Computer Science. Real gate = Undergraduate Admission Guarantee (18 Open Studies units + GPA >=2.50 Science + English 30-1).
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
-  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
   - **This week enables:** Apply by Nov 08; Apply by Nov 15.
 - **Academic / Course Milestones**
-  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -1612,17 +1612,17 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W056 · Mon 2027-10-18 → Sun 2027-10-24
+### W056 · Mon 2027-10-11 → Sun 2027-10-17
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 4 wk):** Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep.
   - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
+  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
   - **This week enables:** Apply by Nov 08; Apply by Nov 15.
 - **Academic / Course Milestones**
-  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
+  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -1639,12 +1639,12 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W057 · Mon 2027-10-25 → Sun 2027-10-31
+### W057 · Mon 2027-10-18 → Sun 2027-10-24
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Declare the BSc Computer Science major; confirm Science Co-op eligibility.
-  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
+  - **Start now (needed in 4 wk):** Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep.
+  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
   - **This week enables:** Apply by Nov 08; Apply by Nov 15.
@@ -1666,11 +1666,11 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W058 · Mon 2027-11-01 → Sun 2027-11-07
+### W058 · Mon 2027-10-25 → Sun 2027-10-31
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
+  - **Start now (needed in 2 wk):** Declare the BSc Computer Science major; confirm Science Co-op eligibility.
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
@@ -1678,7 +1678,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -1693,19 +1693,19 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W059 · Mon 2027-11-08 → Sun 2027-11-14
+### W059 · Mon 2027-11-01 → Sun 2027-11-07
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Declare the BSc Computer Science major; confirm Science Co-op eligibility.
+  - On the horizon: Apply — Declare the BSc Computer Science major; confirm Science Co-op eligibility. (by Nov 08, 2027).
   - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
   - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
-  - **This week enables:** Apply by Nov 15; Book by Dec 06.
+  - **This week enables:** Apply by Nov 08; Apply by Nov 15.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -1720,15 +1720,15 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** Project 1 repo commits.
 
-### W060 · Mon 2027-11-15 → Sun 2027-11-21
+### W060 · Mon 2027-11-08 → Sun 2027-11-14
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep.
-  - **Start now (needed in 3 wk):** Book an exchange-office advising appointment before the January exchange application.
+  - **DUE THIS WEEK — Apply:** Declare the BSc Computer Science major; confirm Science Co-op eligibility.
+  - On the horizon: Apply — Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep. (by Nov 15, 2027).
+  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
-  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
-  - **This week enables:** Book by Dec 06; Apply by Jan 17.
+  - **This week enables:** Apply by Nov 15; Book by Dec 06.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
@@ -1747,14 +1747,14 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W061 · Mon 2027-11-22 → Sun 2027-11-28
+### W061 · Mon 2027-11-15 → Sun 2027-11-21
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
+  - **DUE THIS WEEK — Apply:** Science Co-op work-term registration deadline — Summer 2028 (Beijing). Confirm placement, insurance, permit prep.
+  - **Start now (needed in 3 wk):** Book an exchange-office advising appointment before the January exchange application.
   - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
   - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
-  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - **This week enables:** Book by Dec 06; Apply by Jan 17.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
@@ -1774,7 +1774,7 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W062 · Mon 2027-11-29 → Sun 2027-12-05
+### W062 · Mon 2027-11-22 → Sun 2027-11-28
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1801,7 +1801,34 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
-### W063 · Mon 2027-12-06 → Sun 2027-12-12
+### W063 · Mon 2027-11-29 → Sun 2027-12-05
+*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Book — Book an exchange-office advising appointment before the January exchange application. (by Dec 06, 2027).
+  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
+  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
+  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
+  - **This week enables:** Book by Dec 06; Apply by Jan 17.
+- **Academic / Course Milestones**
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
+- **Financial Action Items**
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
+  - Project 1 (VLM -> kinematics): scope, repo scaffold, dataset + sim harness.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
+  - **Leading indicator to watch this week:** Project 1 repo commits.
+
+### W064 · Mon 2027-12-06 → Sun 2027-12-12
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
@@ -1817,33 +1844,6 @@ calendrical.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony (amateur community orchestra)).
-  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
-  - Project 1 (VLM -> kinematics): scope, repo scaffold, dataset + sim harness.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
-  - **Leading indicator to watch this week:** Project 1 repo commits.
-
-### W064 · Mon 2027-12-13 → Sun 2027-12-19
-*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
-  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
-  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
-  - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
-  - **This week enables:** Apply by Jan 17; Apply by Mar 06.
-- **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
-- **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony (amateur community orchestra)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
   - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -1857,11 +1857,11 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** BJJ rounds / mat time.
 
-### W065 · Mon 2027-12-20 → Sun 2027-12-26
+### W065 · Mon 2027-12-13 → Sun 2027-12-19
 *Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 4 wk):** SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript.
+  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
   - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
   - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
@@ -1876,25 +1876,25 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
   - **Yoga** 3x (Sun/Tue/Thu) — yin / long-hold (recovery) (Yoga Passage); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
-  - Project 1: ship the end-to-end demo (VLM prompt -> joint targets -> sim execution) by Feb 2028.
+  - Sprint: **NeetCode 150 pass 2 (timed) + ROS2 control + Project 1**.
+  - LeetCode: timed second pass; start weekly contests.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** CPSC 331 problem sets current.
 
-### W066 · Mon 2027-12-27 → Sun 2028-01-02
-*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: —*
+### W066 · Mon 2027-12-20 → Sun 2027-12-26
+*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: Fall 2027*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
+  - **Start now (needed in 4 wk):** SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript.
   - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
   - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - **This week enables:** Apply by Jan 17; Apply by Mar 06.
 - **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -1911,6 +1911,33 @@ calendrical.
   - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
   - **Leading indicator to watch this week:** NeetCode 150 progress.
 
+### W067 · Mon 2027-12-27 → Sun 2028-01-02
+*Phase 4 · Fall 2027 BSc CS Transition (Calgary) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Apply — SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript. (by Jan 17, 2028).
+  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
+  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
+  - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
+  - **This week enables:** Apply by Jan 17; Apply by Mar 06.
+- **Academic / Course Milestones**
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+- **Financial Action Items**
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony (amateur community orchestra)).
+  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
+  - LeetCode: Blind 75 second pass (timed, C++); interview drills.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 4 gate** (4 criteria — phase ends when these are TRUE, not on a date): Admission-guarantee met: 18 Open Studies units + GPA >= 2.50 (Science) + English 30-1 | BSc Computer Science major DECLARED; Science Co-op eligibility confirmed | CPSC 331 + CHIN 301 passed; exchange-course prerequisites satisfied | Co-op work-term registration (Summer 2028) submitted
+  - **Leading indicator to watch this week:** Project 1 repo commits.
+
 
 ---
 
@@ -1922,7 +1949,7 @@ calendrical.
 - [ ] HSK 4 reached; CHIN 303 complete
 - [ ] Project 1 shipped; exchange funding + China visa/permit underway
 
-### W067 · Mon 2028-01-03 → Sun 2028-01-09
+### W068 · Mon 2028-01-03 → Sun 2028-01-09
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -1937,20 +1964,20 @@ calendrical.
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: ensemble + first audition prep. BJJ: blue belt, competition rounds introduced. Swim: test sets begin.
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony + Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
-  - LeetCode: Blind 75 second pass (timed, C++); interview drills.
+  - Isaac Sim: domain randomization + synthetic sensor generation.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
-  - **Leading indicator to watch this week:** Project 1 demo status.
+  - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W068 · Mon 2028-01-10 → Sun 2028-01-16
+### W069 · Mon 2028-01-10 → Sun 2028-01-16
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -1965,33 +1992,6 @@ calendrical.
   - **Winter 2028: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
   - Winter 2028 aid confirmation; exchange funding/award applications open.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony + Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
-  - Isaac Sim: domain randomization + synthetic sensor generation.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
-  - **Leading indicator to watch this week:** LeetCode timed accuracy.
-
-### W069 · Mon 2028-01-17 → Sun 2028-01-23
-*Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
-
-- **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript.
-  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
-  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
-  - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
-  - **This week enables:** Apply by Mar 06; Apply by Mar 13.
-- **Academic / Course Milestones**
-  - **Winter 2028 add/drop deadline** — last day to add/swap without a W (Jan 21, 2028).
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -2005,17 +2005,17 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W070 · Mon 2028-01-24 → Sun 2028-01-30
+### W070 · Mon 2028-01-17 → Sun 2028-01-23
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** SUBMIT the UCalgary Exchange Application (Beijing 2028-29, CLIC network) — references, statement, transcript.
   - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
   - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
-  - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - **This week enables:** Apply by Mar 06; Apply by Mar 13.
 - **Academic / Course Milestones**
-  - Standing: work ahead on the next assignment so the weekend stays free.
+  - **Winter 2028 add/drop deadline** — last day to add/swap without a W (Jan 21, 2028).
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -2032,7 +2032,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W071 · Mon 2028-01-31 → Sun 2028-02-06
+### W071 · Mon 2028-01-24 → Sun 2028-01-30
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2059,7 +2059,7 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W072 · Mon 2028-02-07 → Sun 2028-02-13
+### W072 · Mon 2028-01-31 → Sun 2028-02-06
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2071,7 +2071,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -2086,20 +2086,19 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W073 · Mon 2028-02-14 → Sun 2028-02-20
+### W073 · Mon 2028-02-07 → Sun 2028-02-13
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 3 wk):** Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget.
+  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
   - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - **This week enables:** Apply by Mar 06; Apply by Mar 13.
 - **Academic / Course Milestones**
-  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
-  - Exchange placement/nomination confirmations; HSK 4 mock exam.
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -2114,17 +2113,18 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W074 · Mon 2028-02-21 → Sun 2028-02-27
+### W074 · Mon 2028-02-14 → Sun 2028-02-20
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
+  - **Start now (needed in 3 wk):** Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget.
   - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - **This week enables:** Apply by Mar 06; Apply by Mar 13.
 - **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
+  - Midterm window (planning estimate) — midterms + major assignments cluster here; confirm against each course outline.
+  - Exchange placement/nomination confirmations; HSK 4 mock exam.
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -2141,12 +2141,12 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W075 · Mon 2028-02-28 → Sun 2028-03-05
+### W075 · Mon 2028-02-21 → Sun 2028-02-27
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Register for the HSK 4 exam; lock the host-institution course mapping.
   - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
+  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - **This week enables:** Apply by Mar 06; Apply by Mar 13.
@@ -2168,19 +2168,19 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W076 · Mon 2028-03-06 → Sun 2028-03-12
+### W076 · Mon 2028-02-28 → Sun 2028-03-05
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget.
-  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
+  - **Start now (needed in 2 wk):** Register for the HSK 4 exam; lock the host-institution course mapping.
+  - On the horizon: Apply — Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget. (by Mar 06, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
-  - **This week enables:** Apply by Mar 13; Exam by Apr 17.
+  - **This week enables:** Apply by Mar 06; Apply by Mar 13.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -2195,19 +2195,19 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
-### W077 · Mon 2028-03-13 → Sun 2028-03-19
+### W077 · Mon 2028-03-06 → Sun 2028-03-12
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Register for the HSK 4 exam; lock the host-institution course mapping.
+  - **DUE THIS WEEK — Apply:** Exchange funding: UCalgary International bursaries + CLIC/exchange awards; finalize the budget.
+  - On the horizon: Apply — Register for the HSK 4 exam; lock the host-institution course mapping. (by Mar 13, 2028).
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
-  - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
-  - **This week enables:** Exam by Apr 17; Apply by Apr 24.
+  - **This week enables:** Apply by Mar 13; Exam by Apr 17.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
@@ -2222,14 +2222,14 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W078 · Mon 2028-03-20 → Sun 2028-03-26
+### W078 · Mon 2028-03-13 → Sun 2028-03-19
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Register for the HSK 4 exam; lock the host-institution course mapping.
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
-  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
   - **This week enables:** Exam by Apr 17; Apply by Apr 24.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
@@ -2249,12 +2249,12 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W079 · Mon 2028-03-27 → Sun 2028-04-02
+### W079 · Mon 2028-03-20 → Sun 2028-03-26
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 4 wk):** China Z visa + work-permit documents; travel + medical insurance for the co-op term.
   - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
+  - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
   - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
   - **This week enables:** Exam by Apr 17; Apply by Apr 24.
@@ -2276,7 +2276,34 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
 
-### W080 · Mon 2028-04-03 → Sun 2028-04-09
+### W080 · Mon 2028-03-27 → Sun 2028-04-02
+*Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
+
+- **Critical Path — Meetings & Applications**
+  - **Start now (needed in 4 wk):** China Z visa + work-permit documents; travel + medical insurance for the co-op term.
+  - On the horizon: Exam — HSK 4 exam (target band). (by Apr 17, 2028).
+  - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
+  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
+  - **This week enables:** Exam by Apr 17; Apply by Apr 24.
+- **Academic / Course Milestones**
+  - Standing: work ahead on the next assignment so the weekend stays free.
+- **Financial Action Items**
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
+  - Isaac Sim: domain randomization + synthetic sensor generation.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
+  - **Leading indicator to watch this week:** LeetCode timed accuracy.
+
+### W081 · Mon 2028-04-03 → Sun 2028-04-09
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2290,33 +2317,6 @@ calendrical.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony + Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
-  - Isaac Sim: domain randomization + synthetic sensor generation.
-- **Weekly Time Budget**
-  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
-  - **Leading indicator to watch this week:** LeetCode timed accuracy.
-
-### W081 · Mon 2028-04-10 → Sun 2028-04-16
-*Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
-
-- **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** HSK 4 exam (target band).
-  - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
-  - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
-  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
-  - **This week enables:** Exam by Apr 17; Apply by Apr 24.
-- **Academic / Course Milestones**
-  - **Winter 2028 final exams begin** — Apr 11->Apr 25, 2028.
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony + Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
   - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -2330,17 +2330,17 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** exchange application checklist %.
 
-### W082 · Mon 2028-04-17 → Sun 2028-04-23
+### W082 · Mon 2028-04-10 → Sun 2028-04-16
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Exam:** HSK 4 exam (target band).
+  - **Start now (needed in 1 wk):** HSK 4 exam (target band).
   - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
   - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
   - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
-  - **This week enables:** Apply by Apr 24; Apply by May 04.
+  - **This week enables:** Exam by Apr 17; Apply by Apr 24.
 - **Academic / Course Milestones**
-  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+  - **Winter 2028 final exams begin** — Apr 11->Apr 25, 2028.
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -2357,15 +2357,15 @@ calendrical.
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** HSK 4 mock score.
 
-### W083 · Mon 2028-04-24 → Sun 2028-04-30
+### W083 · Mon 2028-04-17 → Sun 2028-04-23
 *Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** China Z visa + work-permit documents; travel + medical insurance for the co-op term.
-  - **Start now (needed in 1 wk):** Co-op payroll + tax setup; open a foreign-income tracking file.
+  - **DUE THIS WEEK — Exam:** HSK 4 exam (target band).
+  - On the horizon: Apply — China Z visa + work-permit documents; travel + medical insurance for the co-op term. (by Apr 24, 2028).
+  - On the horizon: Apply — Co-op payroll + tax setup; open a foreign-income tracking file. (by May 04, 2028).
   - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
-  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
-  - **This week enables:** Apply by May 04; Unlock by Dec 11.
+  - **This week enables:** Apply by Apr 24; Apply by May 04.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
@@ -2376,13 +2376,40 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
   - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **Co-op + ship Project 2 (Beijing)**.
-  - LeetCode: maintenance (2-3/wk) to stay sharp during the work term.
+  - Sprint: **Ship Project 1 + start Project 2 + Isaac Sim**.
+  - LeetCode: Blind 75 second pass (timed, C++); interview drills.
 - **Weekly Time Budget**
   - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
   - **Leading indicator to watch this week:** Project 1 demo status.
+
+### W084 · Mon 2028-04-24 → Sun 2028-04-30
+*Phase 5 · Winter 2028 + Exchange Application (Calgary) · Term: Winter 2028*
+
+- **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** China Z visa + work-permit documents; travel + medical insurance for the co-op term.
+  - **Start now (needed in 1 wk):** Co-op payroll + tax setup; open a foreign-income tracking file.
+  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
+  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
+  - **This week enables:** Apply by May 04; Unlock by Dec 11.
+- **Academic / Course Milestones**
+  - Standing: book a study-group or tutorial slot for the hardest course.
+- **Financial Action Items**
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony + Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu Ranchlands Village or Affinity Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Co-op + ship Project 2 (Beijing)**.
+  - Write-up: publish two portfolio writeups (EN/中文) with demos.
+- **Weekly Time Budget**
+  - Time budget — Academic 22h · LeetCode 7h · Project 6h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 5 gate** (3 criteria — phase ends when these are TRUE, not on a date): UCalgary Exchange Application SUBMITTED (Beijing 2028-29, CLIC) | HSK 4 reached; CHIN 303 complete | Project 1 shipped; exchange funding + China visa/permit underway
+  - **Leading indicator to watch this week:** LeetCode timed accuracy.
 
 
 ---
@@ -2395,7 +2422,7 @@ calendrical.
 - [ ] Project 2 shipped (before the exchange term)
 - [ ] Work permit, insurance and transfer-credit groundwork done
 
-### W084 · Mon 2028-05-01 → Sun 2028-05-07
+### W085 · Mon 2028-05-01 → Sun 2028-05-07
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2405,38 +2432,11 @@ calendrical.
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
 - **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Beijing: keep violin via chamber ensemble; BJJ at an international-friendly academy; swim at an Olympic pool. Volume trimmed to fit the work week.
-  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
-  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
-  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Co-op + ship Project 2 (Beijing)**.
-  - Write-up: publish two portfolio writeups (EN/中文) with demos.
-- **Weekly Time Budget**
-  - Time budget — Job/co-op 40h · LeetCode 3h · Project 7h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
-  - **Leading indicator to watch this week:** weekly hours trained (kept modest).
-
-### W085 · Mon 2028-05-08 → Sun 2028-05-14
-*Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
-  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
-  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
-- **Academic / Course Milestones**
-  - Standing: work ahead on the next assignment so the weekend stays free.
-- **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
   - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
@@ -2450,7 +2450,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W086 · Mon 2028-05-15 → Sun 2028-05-21
+### W086 · Mon 2028-05-08 → Sun 2028-05-14
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2477,7 +2477,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W087 · Mon 2028-05-22 → Sun 2028-05-28
+### W087 · Mon 2028-05-15 → Sun 2028-05-21
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2504,7 +2504,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W088 · Mon 2028-05-29 → Sun 2028-06-04
+### W088 · Mon 2028-05-22 → Sun 2028-05-28
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2531,7 +2531,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W089 · Mon 2028-06-05 → Sun 2028-06-11
+### W089 · Mon 2028-05-29 → Sun 2028-06-04
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2543,7 +2543,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2558,7 +2558,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W090 · Mon 2028-06-12 → Sun 2028-06-18
+### W090 · Mon 2028-06-05 → Sun 2028-06-11
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2570,7 +2570,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2585,7 +2585,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W091 · Mon 2028-06-19 → Sun 2028-06-25
+### W091 · Mon 2028-06-12 → Sun 2028-06-18
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2612,7 +2612,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W092 · Mon 2028-06-26 → Sun 2028-07-02
+### W092 · Mon 2028-06-19 → Sun 2028-06-25
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2639,7 +2639,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W093 · Mon 2028-07-03 → Sun 2028-07-09
+### W093 · Mon 2028-06-26 → Sun 2028-07-02
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2651,7 +2651,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2666,7 +2666,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W094 · Mon 2028-07-10 → Sun 2028-07-16
+### W094 · Mon 2028-07-03 → Sun 2028-07-09
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2678,7 +2678,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2693,7 +2693,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W095 · Mon 2028-07-17 → Sun 2028-07-23
+### W095 · Mon 2028-07-10 → Sun 2028-07-16
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2720,7 +2720,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W096 · Mon 2028-07-24 → Sun 2028-07-30
+### W096 · Mon 2028-07-17 → Sun 2028-07-23
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2747,7 +2747,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W097 · Mon 2028-07-31 → Sun 2028-08-06
+### W097 · Mon 2028-07-24 → Sun 2028-07-30
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2774,7 +2774,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** co-op sprint deliverables done.
 
-### W098 · Mon 2028-08-07 → Sun 2028-08-13
+### W098 · Mon 2028-07-31 → Sun 2028-08-06
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2786,7 +2786,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2801,7 +2801,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** Project 2 % done.
 
-### W099 · Mon 2028-08-14 → Sun 2028-08-20
+### W099 · Mon 2028-08-07 → Sun 2028-08-13
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2813,7 +2813,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
@@ -2828,8 +2828,8 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W100 · Mon 2028-08-21 → Sun 2028-08-27
-*Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: —*
+### W100 · Mon 2028-08-14 → Sun 2028-08-20
+*Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: Summer 2028*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
@@ -2838,7 +2838,7 @@ calendrical.
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
 - **Academic / Course Milestones**
-  - Work term: no separate academic lane — the co-op deliverables above ARE the focus this week.
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -2855,7 +2855,7 @@ calendrical.
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
   - **Leading indicator to watch this week:** weekly hours trained (kept modest).
 
-### W101 · Mon 2028-08-28 → Sun 2028-09-03
+### W101 · Mon 2028-08-21 → Sun 2028-08-27
 *Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -2873,14 +2873,41 @@ calendrical.
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
   - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
   - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Co-op + ship Project 2 (Beijing)**.
+  - Project 2: ship by Jun 2028 (before the exchange term).
+- **Weekly Time Budget**
+  - Time budget — Job/co-op 40h · LeetCode 3h · Project 7h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
+  - **Leading indicator to watch this week:** co-op sprint deliverables done.
+
+### W102 · Mon 2028-08-28 → Sun 2028-09-03
+*Phase 6 · Beijing AI/Software Co-op (Beijing) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
+  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
+  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
+  - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
+- **Academic / Course Milestones**
+  - Work term: no separate academic lane — the co-op deliverables above ARE the focus this week.
+- **Financial Action Items**
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO (Peking Unnamed Chamber Orchestra, pkuco.org) or Beijing International Chamber Orchestra (BICO)).
+  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (AC5 MMA (Chaoyang, ac5bjj.com) or Beijing Jiujitsu Academy (Dongcheng)).
+  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (National Aquatics Center 'Water Cube' (Olympic Green) or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga (taozitreeyoga.com) or FineYoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
-  - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
+  - LLM agents: build agentic pipelines (tool use, planning, eval harness).
 - **Weekly Time Budget**
   - Time budget — Job/co-op 40h · LeetCode 3h · Project 7h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 6 gate** (3 criteria — phase ends when these are TRUE, not on a date): Full-time Beijing co-op delivered; a real AI/software feature shipped and documented | Project 2 shipped (before the exchange term) | Work permit, insurance and transfer-credit groundwork done
-  - **Leading indicator to watch this week:** co-op sprint deliverables done.
+  - **Leading indicator to watch this week:** Project 2 % done.
 
 
 ---
@@ -2892,7 +2919,7 @@ calendrical.
 - [ ] Exchange year complete; transfer credits approved and on the transcript
 - [ ] HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
 
-### W102 · Mon 2028-09-04 → Sun 2028-09-10
+### W103 · Mon 2028-09-04 → Sun 2028-09-10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -2907,34 +2934,6 @@ calendrical.
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: Beijing community ensemble + weekly private lessons. BJJ: consistent training (blue proficiency). Swim: structured sets at a Beijing sports complex.
-  - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
-  - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — mobility + hip openers for BJJ (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
-  - LLM agents: build agentic pipelines (tool use, planning, eval harness).
-- **Weekly Time Budget**
-  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
-  - **Leading indicator to watch this week:** HSK 5 mock band.
-
-### W103 · Mon 2028-09-11 → Sun 2028-09-17
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
-  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
-  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
-- **Academic / Course Milestones**
-  - **Fall 2028 term start** — classes begin (Exchange — Tsinghua / BLCU via CLIC). _(provisional — only class start/end is in UCalgary's feed)_ Confirm sections, labs, D2L.
-  - Add/drop, withdrawal, exam and tuition dates for this term are **not yet published** by UCalgary — confirm at ucalgary.ca/registrar/dates before relying on them.
-- **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
   - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
@@ -2948,7 +2947,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W104 · Mon 2028-09-18 → Sun 2028-09-24
+### W104 · Mon 2028-09-11 → Sun 2028-09-17
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -2958,7 +2957,8 @@ calendrical.
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
 - **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
+  - **Fall 2028 term start** — classes begin (Exchange — Tsinghua / BLCU via CLIC). _(provisional — only class start/end is in UCalgary's feed)_ Confirm sections, labs, D2L.
+  - Add/drop, withdrawal, exam and tuition dates for this term are **not yet published** by UCalgary — confirm at ucalgary.ca/registrar/dates before relying on them.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -2975,7 +2975,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W105 · Mon 2028-09-25 → Sun 2028-10-01
+### W105 · Mon 2028-09-18 → Sun 2028-09-24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3002,7 +3002,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W106 · Mon 2028-10-02 → Sun 2028-10-08
+### W106 · Mon 2028-09-25 → Sun 2028-10-01
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3014,7 +3014,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3029,7 +3029,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W107 · Mon 2028-10-09 → Sun 2028-10-15
+### W107 · Mon 2028-10-02 → Sun 2028-10-08
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3041,7 +3041,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3056,7 +3056,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W108 · Mon 2028-10-16 → Sun 2028-10-22
+### W108 · Mon 2028-10-09 → Sun 2028-10-15
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3083,7 +3083,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W109 · Mon 2028-10-23 → Sun 2028-10-29
+### W109 · Mon 2028-10-16 → Sun 2028-10-22
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3110,7 +3110,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W110 · Mon 2028-10-30 → Sun 2028-11-05
+### W110 · Mon 2028-10-23 → Sun 2028-10-29
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3137,7 +3137,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W111 · Mon 2028-11-06 → Sun 2028-11-12
+### W111 · Mon 2028-10-30 → Sun 2028-11-05
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3149,7 +3149,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3164,7 +3164,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W112 · Mon 2028-11-13 → Sun 2028-11-19
+### W112 · Mon 2028-11-06 → Sun 2028-11-12
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3176,7 +3176,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3191,7 +3191,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W113 · Mon 2028-11-20 → Sun 2028-11-26
+### W113 · Mon 2028-11-13 → Sun 2028-11-19
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3218,11 +3218,11 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W114 · Mon 2028-11-27 → Sun 2028-12-03
+### W114 · Mon 2028-11-20 → Sun 2028-11-26
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** File course transfer-credit paperwork for the Fall 2028 exchange term.
+  - On the horizon: Unlock — File course transfer-credit paperwork for the Fall 2028 exchange term. (by Dec 11, 2028).
   - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
@@ -3245,7 +3245,34 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W115 · Mon 2028-12-04 → Sun 2028-12-10
+### W115 · Mon 2028-11-27 → Sun 2028-12-03
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
+
+- **Critical Path — Meetings & Applications**
+  - **Start now (needed in 2 wk):** File course transfer-credit paperwork for the Fall 2028 exchange term.
+  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
+  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
+  - **This week enables:** Unlock by Dec 11; Apply by Jan 29.
+- **Academic / Course Milestones**
+  - Standing: work ahead on the next assignment so the weekend stays free.
+- **Financial Action Items**
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
+  - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
+- **Weekly Time Budget**
+  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
+  - **Leading indicator to watch this week:** humanoid-sim milestones.
+
+### W116 · Mon 2028-12-04 → Sun 2028-12-10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Fall 2028*
 
 - **Critical Path — Meetings & Applications**
@@ -3259,33 +3286,6 @@ calendrical.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
-  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
-  - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
-- **Weekly Time Budget**
-  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
-  - **Leading indicator to watch this week:** humanoid-sim milestones.
-
-### W116 · Mon 2028-12-11 → Sun 2028-12-17
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
-
-- **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Unlock:** File course transfer-credit paperwork for the Fall 2028 exchange term.
-  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
-  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - **This week enables:** Apply by Jan 29; Exam by Mar 12.
-- **Academic / Course Milestones**
-  - Fall 2028 exchange finals.
-- **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
   - **Swim** 3x (Tue/Thu/Sat) — IM + stroke work (Water Cube or Ying Tung Natatorium).
@@ -3299,17 +3299,17 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W117 · Mon 2028-12-18 → Sun 2028-12-24
+### W117 · Mon 2028-12-11 → Sun 2028-12-17
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Unlock:** File course transfer-credit paperwork for the Fall 2028 exchange term.
   - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - **This week enables:** Apply by Jan 29; Exam by Mar 12.
 - **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+  - Fall 2028 exchange finals.
 - **Financial Action Items**
   - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
@@ -3326,7 +3326,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W118 · Mon 2028-12-25 → Sun 2028-12-31
+### W118 · Mon 2028-12-18 → Sun 2028-12-24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3353,7 +3353,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W119 · Mon 2029-01-01 → Sun 2029-01-07
+### W119 · Mon 2028-12-25 → Sun 2028-12-31
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3365,7 +3365,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Break week — recover first, then do a short prep pass on the next term's prerequisites.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3380,7 +3380,34 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W120 · Mon 2029-01-08 → Sun 2029-01-14
+### W120 · Mon 2029-01-01 → Sun 2029-01-07
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
+  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
+  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
+  - **This week enables:** Apply by Jan 29; Exam by Mar 12.
+- **Academic / Course Milestones**
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+- **Financial Action Items**
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
+  - Reading: humanoid robotics papers; write summaries in EN + 中文.
+- **Weekly Time Budget**
+  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
+  - **Leading indicator to watch this week:** papers read / summaries written.
+
+### W121 · Mon 2029-01-08 → Sun 2029-01-14
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3394,34 +3421,7 @@ calendrical.
   - Add/drop, withdrawal, exam and tuition dates for this term are **not yet published** by UCalgary — confirm at ucalgary.ca/registrar/dates before relying on them.
   - Spring exchange term — Chinese + CS electives; HSK 5 prep.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
-- **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
-  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Water Cube or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
-  - Reading: humanoid robotics papers; write summaries in EN + 中文.
-- **Weekly Time Budget**
-  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
-  - **Leading indicator to watch this week:** papers read / summaries written.
-
-### W121 · Mon 2029-01-15 → Sun 2029-01-21
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
-
-- **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Register for the HSK 5 exam.
-  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
-  - **This week enables:** Apply by Jan 29; Exam by Mar 12.
-- **Academic / Course Milestones**
-  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
-- **Financial Action Items**
-  - Exchange-term funding confirmation; scholarship renewals.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3436,11 +3436,11 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W122 · Mon 2029-01-22 → Sun 2029-01-28
+### W122 · Mon 2029-01-15 → Sun 2029-01-21
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
+  - **Start now (needed in 2 wk):** Register for the HSK 5 exam.
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
@@ -3448,7 +3448,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - Exchange-term funding confirmation; scholarship renewals.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3463,15 +3463,15 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W123 · Mon 2029-01-29 → Sun 2029-02-04
+### W123 · Mon 2029-01-22 → Sun 2029-01-28
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Register for the HSK 5 exam.
+  - On the horizon: Apply — Register for the HSK 5 exam. (by Jan 29, 2029).
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
-  - **This week enables:** Exam by Mar 12; Unlock by Jun 11.
+  - **This week enables:** Apply by Jan 29; Exam by Mar 12.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
@@ -3490,19 +3490,19 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W124 · Mon 2029-02-05 → Sun 2029-02-11
+### W124 · Mon 2029-01-29 → Sun 2029-02-04
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Register for the HSK 5 exam.
   - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
-  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
   - **This week enables:** Exam by Mar 12; Unlock by Jun 11.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3517,7 +3517,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W125 · Mon 2029-02-12 → Sun 2029-02-18
+### W125 · Mon 2029-02-05 → Sun 2029-02-11
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3529,7 +3529,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3544,7 +3544,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W126 · Mon 2029-02-19 → Sun 2029-02-25
+### W126 · Mon 2029-02-12 → Sun 2029-02-18
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3571,7 +3571,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W127 · Mon 2029-02-26 → Sun 2029-03-04
+### W127 · Mon 2029-02-19 → Sun 2029-02-25
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3598,11 +3598,11 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W128 · Mon 2029-03-05 → Sun 2029-03-11
+### W128 · Mon 2029-02-26 → Sun 2029-03-04
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** HSK 5 exam (target >=5.0).
+  - On the horizon: Exam — HSK 5 exam (target >=5.0). (by Mar 12, 2029).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
@@ -3610,7 +3610,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3625,19 +3625,19 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W129 · Mon 2029-03-12 → Sun 2029-03-18
+### W129 · Mon 2029-03-05 → Sun 2029-03-11
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Exam:** HSK 5 exam (target >=5.0).
+  - **Start now (needed in 1 wk):** HSK 5 exam (target >=5.0).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
-  - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
+  - **This week enables:** Exam by Mar 12; Unlock by Jun 11.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3652,14 +3652,14 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W130 · Mon 2029-03-19 → Sun 2029-03-25
+### W130 · Mon 2029-03-12 → Sun 2029-03-18
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Exam:** HSK 5 exam (target >=5.0).
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
@@ -3679,7 +3679,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W131 · Mon 2029-03-26 → Sun 2029-04-01
+### W131 · Mon 2029-03-19 → Sun 2029-03-25
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3706,7 +3706,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W132 · Mon 2029-04-02 → Sun 2029-04-08
+### W132 · Mon 2029-03-26 → Sun 2029-04-01
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3718,7 +3718,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3733,7 +3733,34 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W133 · Mon 2029-04-09 → Sun 2029-04-15
+### W133 · Mon 2029-04-02 → Sun 2029-04-08
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
+  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
+  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
+  - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
+- **Academic / Course Milestones**
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
+- **Financial Action Items**
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
+  - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
+- **Weekly Time Budget**
+  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
+  - **Leading indicator to watch this week:** exchange course grades on track.
+
+### W134 · Mon 2029-04-09 → Sun 2029-04-15
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Winter 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3745,33 +3772,6 @@ calendrical.
 - **Academic / Course Milestones**
   - **Winter 2029 — classes end (provisional); exam window TBA.**
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
-  - **Violin** 45 min daily — ensemble parts + sectionals (PUCO / BICO community ensembles (open student participation)).
-  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (AC5 MMA or Beijing Jiujitsu Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Water Cube or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
-  - LeetCode: NeetCode 150 pass 3 — C++ and Python side by side; contest rating focus.
-- **Weekly Time Budget**
-  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
-  - **Leading indicator to watch this week:** exchange course grades on track.
-
-### W134 · Mon 2029-04-16 → Sun 2029-04-22
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
-  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
-  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
-  - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
-- **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
-- **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
@@ -3787,7 +3787,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W135 · Mon 2029-04-23 → Sun 2029-04-29
+### W135 · Mon 2029-04-16 → Sun 2029-04-22
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3814,7 +3814,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W136 · Mon 2029-04-30 → Sun 2029-05-06
+### W136 · Mon 2029-04-23 → Sun 2029-04-29
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -3841,8 +3841,8 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W137 · Mon 2029-05-07 → Sun 2029-05-13
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
+### W137 · Mon 2029-04-30 → Sun 2029-05-06
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
@@ -3851,9 +3851,9 @@ calendrical.
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
 - **Academic / Course Milestones**
-  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3868,7 +3868,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W138 · Mon 2029-05-14 → Sun 2029-05-20
+### W138 · Mon 2029-05-07 → Sun 2029-05-13
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3880,7 +3880,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3895,7 +3895,7 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W139 · Mon 2029-05-21 → Sun 2029-05-27
+### W139 · Mon 2029-05-14 → Sun 2029-05-20
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -3922,11 +3922,11 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** humanoid-sim milestones.
 
-### W140 · Mon 2029-05-28 → Sun 2029-06-03
+### W140 · Mon 2029-05-21 → Sun 2029-05-27
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary.
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
@@ -3949,19 +3949,19 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
-### W141 · Mon 2029-06-04 → Sun 2029-06-10
+### W141 · Mon 2029-05-28 → Sun 2029-06-03
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 3 wk):** Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen).
-  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
+  - **Start now (needed in 2 wk):** Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary.
+  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (AC5 MMA or Beijing Jiujitsu Academy).
@@ -3976,19 +3976,19 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** exchange course grades on track.
 
-### W142 · Mon 2029-06-11 → Sun 2029-06-17
+### W142 · Mon 2029-06-04 → Sun 2029-06-10
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Unlock:** Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary.
-  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
+  - **Start now (needed in 3 wk):** Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen).
+  - On the horizon: Unlock — Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary. (by Jun 11, 2029).
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
-  - **This week enables:** Apply by Jun 25; Book by Sep 10.
+  - **This week enables:** Unlock by Jun 11; Apply by Jun 25.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (PUCO / BICO community ensembles (open student participation)).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (AC5 MMA or Beijing Jiujitsu Academy).
@@ -4003,7 +4003,34 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** HSK 5 mock band.
 
-### W143 · Mon 2029-06-18 → Sun 2029-06-24
+### W143 · Mon 2029-06-11 → Sun 2029-06-17
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Spring 2029*
+
+- **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Unlock:** Exchange wrap-up: final transcripts + transfer-credit approval; plan the return to Calgary.
+  - On the horizon: Apply — Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen). (by Jun 25, 2029).
+  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
+  - **This week enables:** Apply by Jun 25; Book by Sep 10.
+- **Academic / Course Milestones**
+  - Standing: check Quest/D2L for the week; no summative deadline is expected.
+- **Financial Action Items**
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Exchange: mastery pass + humanoid sim + LLM agents**.
+  - Humanoid sim: locomotion + manipulation policies in Isaac Sim / ROS2.
+- **Weekly Time Budget**
+  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
+  - **Leading indicator to watch this week:** humanoid-sim milestones.
+
+### W144 · Mon 2029-06-18 → Sun 2029-06-24
 *Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4014,33 +4041,6 @@ calendrical.
   - **This week enables:** Apply by Jun 25; Book by Sep 10.
 - **Academic / Course Milestones**
   - Break week — recover first, then do a short prep pass on the next term's prerequisites.
-- **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
-- **Training & Artistic Schedule**
-  - **Violin** 45 min daily — Kreutzer étude + tone production (PUCO / BICO community ensembles (open student participation)).
-  - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (AC5 MMA or Beijing Jiujitsu Academy).
-  - **Swim** 3x (Tue/Thu/Sat) — kick + drill technique (Water Cube or Ying Tung Natatorium).
-  - **Yoga** 3x (Sun/Tue/Thu) — hatha (balance + breath) (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Applied internship + portfolio polish**.
-  - Portfolio: clean repos, EN/中文 READMEs, demo videos.
-- **Weekly Time Budget**
-  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
-  - **Leading indicator to watch this week:** humanoid-sim milestones.
-
-### W144 · Mon 2029-06-25 → Sun 2029-07-01
-*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Summer 2029*
-
-- **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen).
-  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
-  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
-  - **This week enables:** Book by Sep 10; Apply by Oct 08.
-- **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -4057,6 +4057,33 @@ calendrical.
   - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
   - **Leading indicator to watch this week:** papers read / summaries written.
 
+### W145 · Mon 2029-06-25 → Sun 2029-07-01
+*Phase 7 · Beijing Exchange (CLIC) (Beijing) · Term: Summer 2029*
+
+- **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Internship visa/permit + confirm the Summer 2029 placement (Beijing/Shenzhen).
+  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
+  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
+  - **This week enables:** Book by Sep 10; Apply by Oct 08.
+- **Academic / Course Milestones**
+  - Standing: work ahead on the next assignment so the weekend stays free.
+- **Financial Action Items**
+  - Standing: log spend weekly; keep receipts (income-support evidence).
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — sight-reading + rhythm drills (PUCO / BICO community ensembles (open student participation)).
+  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (AC5 MMA or Beijing Jiujitsu Academy).
+  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Water Cube or Ying Tung Natatorium).
+  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Taozi Tree Yoga or FineYoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Applied internship + portfolio polish**.
+  - Internship: ship a real AI/LLM/robotics feature; write up results.
+- **Weekly Time Budget**
+  - Time budget — Academic 16h · LeetCode 8h · Project 8h · Training 16.5h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 7 gate** (2 criteria — phase ends when these are TRUE, not on a date): Exchange year complete; transfer credits approved and on the transcript | HSK 5 reached (>=5.0); humanoid-sim + LLM-agent portfolio work done
+  - **Leading indicator to watch this week:** exchange course grades on track.
+
 
 ---
 
@@ -4067,35 +4094,7 @@ calendrical.
 - [ ] Applied AI/LLM/robotics internship shipped and written up
 - [ ] Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
 
-### W145 · Mon 2029-07-02 → Sun 2029-07-08
-*Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
-  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
-  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
-  - **This week enables:** Book by Sep 10; Apply by Oct 08.
-- **Academic / Course Milestones**
-  - Standing: work ahead on the next assignment so the weekend stays free.
-- **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
-- **Training & Artistic Schedule**
-  - **Growth target (this phase):** Applied summer: maintain all four at maintenance volume around a full-time internship.
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
-  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
-  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
-  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Applied internship + portfolio polish**.
-  - Internship: ship a real AI/LLM/robotics feature; write up results.
-- **Weekly Time Budget**
-  - Time budget — Job/co-op 40h · LeetCode 4h · Project 8h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
-  - **Leading indicator to watch this week:** internship feature shipped?.
-
-### W146 · Mon 2029-07-09 → Sun 2029-07-15
+### W146 · Mon 2029-07-02 → Sun 2029-07-08
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4107,8 +4106,9 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
+  - **Growth target (this phase):** Applied summer: maintain all four at maintenance volume around a full-time internship.
   - **Violin** 45 min daily — vibrato + phrasing (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
@@ -4122,7 +4122,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W147 · Mon 2029-07-16 → Sun 2029-07-22
+### W147 · Mon 2029-07-09 → Sun 2029-07-15
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4149,7 +4149,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W148 · Mon 2029-07-23 → Sun 2029-07-29
+### W148 · Mon 2029-07-16 → Sun 2029-07-22
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4176,7 +4176,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** internship feature shipped?.
 
-### W149 · Mon 2029-07-30 → Sun 2029-08-05
+### W149 · Mon 2029-07-23 → Sun 2029-07-29
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4203,7 +4203,7 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W150 · Mon 2029-08-06 → Sun 2029-08-12
+### W150 · Mon 2029-07-30 → Sun 2029-08-05
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4215,7 +4215,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
@@ -4230,8 +4230,8 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
 
-### W151 · Mon 2029-08-13 → Sun 2029-08-19
-*Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
+### W151 · Mon 2029-08-06 → Sun 2029-08-12
+*Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: Summer 2029*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
@@ -4240,9 +4240,9 @@ calendrical.
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - **This week enables:** Book by Sep 10; Apply by Oct 08.
 - **Academic / Course Milestones**
-  - Internship week — applied work is the focus; keep the portfolio + LeetCode maintenance ticking.
+  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
@@ -4257,11 +4257,11 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** internship feature shipped?.
 
-### W152 · Mon 2029-08-20 → Sun 2029-08-26
+### W152 · Mon 2029-08-13 → Sun 2029-08-19
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 3 wk):** Secure a capstone supervisor — book the meeting; needed before the proposal.
+  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
@@ -4284,11 +4284,11 @@ calendrical.
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** portfolio repos polished.
 
-### W153 · Mon 2029-08-27 → Sun 2029-09-02
+### W153 · Mon 2029-08-20 → Sun 2029-08-26
 *Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
+  - **Start now (needed in 3 wk):** Secure a capstone supervisor — book the meeting; needed before the proposal.
   - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
@@ -4303,13 +4303,40 @@ calendrical.
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
   - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
-  - Sprint: **Final year: capstone + interview sprint**.
-  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
+  - Sprint: **Applied internship + portfolio polish**.
+  - LeetCode: 3-4/wk maintenance.
 - **Weekly Time Budget**
   - Time budget — Job/co-op 40h · LeetCode 4h · Project 8h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
   - **Leading indicator to watch this week:** LeetCode maintenance count.
+
+### W154 · Mon 2029-08-27 → Sun 2029-09-02
+*Phase 8 · Beijing/Shenzhen Internship (Beijing / Shenzhen) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Book — Secure a capstone supervisor — book the meeting; needed before the proposal. (by Sep 10, 2029).
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
+  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
+  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
+  - **This week enables:** Book by Sep 10; Apply by Oct 08.
+- **Academic / Course Milestones**
+  - Internship week — applied work is the focus; keep the portfolio + LeetCode maintenance ticking.
+- **Financial Action Items**
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — ensemble parts + sectionals (Shenzhen Symphony Orchestra community groups (sso.org.cn)).
+  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Shenzhen: Invincible Fight Club (Chegongmiao, invinciblegym.com) / Beijing: AC5 MMA).
+  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Shenzhen Universiade Sports Center pool (Longgang) / Beijing: Water Cube).
+  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Shenzhen: The Garden (Shekou, English, thegardenshenzhen.com) / Beijing: Taozi Tree Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - LeetCode: NeetCode 150 timed twice (Oct-Dec 2029, Mar-May 2030); mock interviews.
+- **Weekly Time Budget**
+  - Time budget — Job/co-op 40h · LeetCode 4h · Project 8h · Training 14h · **Personal/rest 12h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 8 gate** (2 criteria — phase ends when these are TRUE, not on a date): Applied AI/LLM/robotics internship shipped and written up | Portfolio clean: two end-to-end VLM + kinematics projects, EN/中文
+  - **Leading indicator to watch this week:** internship feature shipped?.
 
 
 ---
@@ -4322,7 +4349,7 @@ calendrical.
 - [ ] NeetCode 150 mastered twice; interview-ready in C++ and Python
 - [ ] Graduation audit cleared; job / grad-school pipeline live
 
-### W154 · Mon 2029-09-03 → Sun 2029-09-09
+### W155 · Mon 2029-09-03 → Sun 2029-09-09
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4337,20 +4364,20 @@ calendrical.
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Growth target (this phase):** Violin: orchestra-ready — audition rep, section playing. BJJ: blue -> purple track. Swim: peak — test sets / time trials.
-  - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
-  - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — sun-salutation + standing poses (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
 - **Technical & Portfolio Sprints**
   - Sprint: **Final year: capstone + interview sprint**.
-  - LeetCode: NeetCode 150 timed twice (Oct-Dec 2029, Mar-May 2030); mock interviews.
+  - C++/Python fluency: system design for robotics + ML roles.
 - **Weekly Time Budget**
   - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
 - **Gate & Feedback**
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
-  - **Leading indicator to watch this week:** NeetCode timed score.
+  - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W155 · Mon 2029-09-10 → Sun 2029-09-16
+### W156 · Mon 2029-09-10 → Sun 2029-09-16
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4366,33 +4393,6 @@ calendrical.
 - **Financial Action Items**
   - **Fall 2029: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
-  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Final year: capstone + interview sprint**.
-  - C++/Python fluency: system design for robotics + ML roles.
-- **Weekly Time Budget**
-  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
-  - **Leading indicator to watch this week:** applications sent (grad/job).
-
-### W156 · Mon 2029-09-17 → Sun 2029-09-23
-*Phase 9 · Final Year (Calgary) · Term: Fall 2029*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
-  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
-  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
-  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Apply by Oct 08; Apply by Jan 07.
-- **Academic / Course Milestones**
-  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
-- **Financial Action Items**
-  - Final-year Student Aid confirmation; graduation audit fee.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
   - **Swim** 3x (Tue/Thu/Sat) — threshold sets (200s / 400s) (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -4406,11 +4406,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W157 · Mon 2029-09-24 → Sun 2029-09-30
+### W157 · Mon 2029-09-17 → Sun 2029-09-23
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 2 wk):** Capstone proposal sign-off — VLM-driven humanoid manipulation.
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
@@ -4418,7 +4418,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - Final-year Student Aid confirmation; graduation audit fee.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4433,11 +4433,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W158 · Mon 2029-10-01 → Sun 2029-10-07
+### W158 · Mon 2029-09-24 → Sun 2029-09-30
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
+  - **Start now (needed in 2 wk):** Capstone proposal sign-off — VLM-driven humanoid manipulation.
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
@@ -4445,7 +4445,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4460,19 +4460,19 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W159 · Mon 2029-10-08 → Sun 2029-10-14
+### W159 · Mon 2029-10-01 → Sun 2029-10-07
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Capstone proposal sign-off — VLM-driven humanoid manipulation.
+  - On the horizon: Apply — Capstone proposal sign-off — VLM-driven humanoid manipulation. (by Oct 08, 2029).
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Apply by Jan 07; Exam by Apr 15.
+  - **This week enables:** Apply by Oct 08; Apply by Jan 07.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4487,10 +4487,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W160 · Mon 2029-10-15 → Sun 2029-10-21
+### W160 · Mon 2029-10-08 → Sun 2029-10-14
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Capstone proposal sign-off — VLM-driven humanoid manipulation.
   - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
@@ -4513,7 +4514,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W161 · Mon 2029-10-22 → Sun 2029-10-28
+### W161 · Mon 2029-10-15 → Sun 2029-10-21
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4539,7 +4540,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W162 · Mon 2029-10-29 → Sun 2029-11-04
+### W162 · Mon 2029-10-22 → Sun 2029-10-28
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4565,7 +4566,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W163 · Mon 2029-11-05 → Sun 2029-11-11
+### W163 · Mon 2029-10-29 → Sun 2029-11-04
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4576,7 +4577,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4591,7 +4592,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W164 · Mon 2029-11-12 → Sun 2029-11-18
+### W164 · Mon 2029-11-05 → Sun 2029-11-11
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4602,7 +4603,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4617,7 +4618,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W165 · Mon 2029-11-19 → Sun 2029-11-25
+### W165 · Mon 2029-11-12 → Sun 2029-11-18
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4643,7 +4644,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W166 · Mon 2029-11-26 → Sun 2029-12-02
+### W166 · Mon 2029-11-19 → Sun 2029-11-25
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4669,7 +4670,33 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W167 · Mon 2029-12-03 → Sun 2029-12-09
+### W167 · Mon 2029-11-26 → Sun 2029-12-02
+*Phase 9 · Final Year (Calgary) · Term: Fall 2029*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
+  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
+  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
+  - **This week enables:** Apply by Jan 07; Exam by Apr 15.
+- **Academic / Course Milestones**
+  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
+- **Financial Action Items**
+  - Standing: keep bank statements for future Student Aid / Income Support reporting.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - C++/Python fluency: system design for robotics + ML roles.
+- **Weekly Time Budget**
+  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
+  - **Leading indicator to watch this week:** applications sent (grad/job).
+
+### W168 · Mon 2029-12-03 → Sun 2029-12-09
 *Phase 9 · Final Year (Calgary) · Term: Fall 2029*
 
 - **Critical Path — Meetings & Applications**
@@ -4682,32 +4709,6 @@ calendrical.
 - **Financial Action Items**
   - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
-  - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Final year: capstone + interview sprint**.
-  - C++/Python fluency: system design for robotics + ML roles.
-- **Weekly Time Budget**
-  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
-  - **Leading indicator to watch this week:** applications sent (grad/job).
-
-### W168 · Mon 2029-12-10 → Sun 2029-12-16
-*Phase 9 · Final Year (Calgary) · Term: —*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
-  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
-  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Apply by Jan 07; Exam by Apr 15.
-- **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
-- **Financial Action Items**
-  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
   - **Swim** 3x (Tue/Thu/Sat) — test set / time trial (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -4721,11 +4722,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W169 · Mon 2029-12-17 → Sun 2029-12-23
+### W169 · Mon 2029-12-10 → Sun 2029-12-16
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 3 wk):** Grad-school + job applications open — start the pipeline.
+  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Apply by Jan 07; Exam by Apr 15.
@@ -4747,11 +4748,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W170 · Mon 2029-12-24 → Sun 2029-12-30
+### W170 · Mon 2029-12-17 → Sun 2029-12-23
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
-  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
+  - **Start now (needed in 3 wk):** Grad-school + job applications open — start the pipeline.
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Apply by Jan 07; Exam by Apr 15.
@@ -4773,7 +4774,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W171 · Mon 2029-12-31 → Sun 2030-01-06
+### W171 · Mon 2029-12-24 → Sun 2029-12-30
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -4799,18 +4800,18 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W172 · Mon 2030-01-07 → Sun 2030-01-13
+### W172 · Mon 2029-12-31 → Sun 2030-01-06
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Apply:** Grad-school + job applications open — start the pipeline.
+  - On the horizon: Apply — Grad-school + job applications open — start the pipeline. (by Jan 07, 2030).
   - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Exam by Apr 15; Event by Jun 10.
+  - **This week enables:** Apply by Jan 07; Exam by Apr 15.
 - **Academic / Course Milestones**
-  - Winter 2030 — capstone build phase begins.
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4825,7 +4826,33 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W173 · Mon 2030-01-14 → Sun 2030-01-20
+### W173 · Mon 2030-01-07 → Sun 2030-01-13
+*Phase 9 · Final Year (Calgary) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Apply:** Grad-school + job applications open — start the pipeline.
+  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
+  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
+  - **This week enables:** Exam by Apr 15; Event by Jun 10.
+- **Academic / Course Milestones**
+  - Winter 2030 — capstone build phase begins.
+- **Financial Action Items**
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
+- **Weekly Time Budget**
+  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
+  - **Leading indicator to watch this week:** capstone milestones vs plan.
+
+### W174 · Mon 2030-01-14 → Sun 2030-01-20
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4839,31 +4866,6 @@ calendrical.
   - **Winter 2030: confirm full-time status (>=9 units)** in Quest -> upload enrolment confirmation to Alberta Student Aid.
   - Final-year aid confirmation; confirm no outstanding fees before convocation.
 - **Training & Artistic Schedule**
-  - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
-  - **Swim** 3x (Tue/Thu/Sat) — sprint intervals (50s / 100s) (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — restorative + breathwork (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Final year: capstone + interview sprint**.
-  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
-- **Weekly Time Budget**
-  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
-  - **Leading indicator to watch this week:** capstone milestones vs plan.
-
-### W174 · Mon 2030-01-21 → Sun 2030-01-27
-*Phase 9 · Final Year (Calgary) · Term: Winter 2030*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
-  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Exam by Apr 15; Event by Jun 10.
-- **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
-- **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
-- **Training & Artistic Schedule**
   - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
   - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
@@ -4877,7 +4879,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W175 · Mon 2030-01-28 → Sun 2030-02-03
+### W175 · Mon 2030-01-21 → Sun 2030-01-27
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4902,7 +4904,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W176 · Mon 2030-02-04 → Sun 2030-02-10
+### W176 · Mon 2030-01-28 → Sun 2030-02-03
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4912,7 +4914,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4927,7 +4929,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W177 · Mon 2030-02-11 → Sun 2030-02-17
+### W177 · Mon 2030-02-04 → Sun 2030-02-10
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4937,7 +4939,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -4952,7 +4954,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W178 · Mon 2030-02-18 → Sun 2030-02-24
+### W178 · Mon 2030-02-11 → Sun 2030-02-17
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -4977,7 +4979,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W179 · Mon 2030-02-25 → Sun 2030-03-03
+### W179 · Mon 2030-02-18 → Sun 2030-02-24
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5002,7 +5004,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W180 · Mon 2030-03-04 → Sun 2030-03-10
+### W180 · Mon 2030-02-25 → Sun 2030-03-03
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5012,7 +5014,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5027,7 +5029,32 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W181 · Mon 2030-03-11 → Sun 2030-03-17
+### W181 · Mon 2030-03-04 → Sun 2030-03-10
+*Phase 9 · Final Year (Calgary) · Term: Winter 2030*
+
+- **Critical Path — Meetings & Applications**
+  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
+  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
+  - **This week enables:** Exam by Apr 15; Event by Jun 10.
+- **Academic / Course Milestones**
+  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
+- **Financial Action Items**
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
+- **Weekly Time Budget**
+  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
+  - **Leading indicator to watch this week:** capstone milestones vs plan.
+
+### W182 · Mon 2030-03-11 → Sun 2030-03-17
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5037,31 +5064,6 @@ calendrical.
 - **Academic / Course Milestones**
   - Capstone mid-point review + demo.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
-- **Training & Artistic Schedule**
-  - **Violin** 45 min daily — vibrato + phrasing (Calgary Civic Symphony / Calgary Phil open rehearsals).
-  - **BJJ** 3x (Mon/Wed/Fri) — drilling + positional sparring (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
-  - **Swim** 3x (Tue/Thu/Sat) — pull + paddles endurance (Foothills Masters Swim Club / Vivo Lane Pool).
-  - **Yoga** 3x (Sun/Tue/Thu) — power flow (core + stability) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
-- **Technical & Portfolio Sprints**
-  - Sprint: **Final year: capstone + interview sprint**.
-  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
-- **Weekly Time Budget**
-  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
-- **Gate & Feedback**
-  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
-  - **Leading indicator to watch this week:** capstone milestones vs plan.
-
-### W182 · Mon 2030-03-18 → Sun 2030-03-24
-*Phase 9 · Final Year (Calgary) · Term: Winter 2030*
-
-- **Critical Path — Meetings & Applications**
-  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
-  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Exam by Apr 15; Event by Jun 10.
-- **Academic / Course Milestones**
-  - Standing: review lecture notes within 24h; drop in on office hours if anything is unclear.
-- **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
@@ -5077,7 +5079,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W183 · Mon 2030-03-25 → Sun 2030-03-31
+### W183 · Mon 2030-03-18 → Sun 2030-03-24
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5102,7 +5104,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W184 · Mon 2030-04-01 → Sun 2030-04-07
+### W184 · Mon 2030-03-25 → Sun 2030-03-31
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5112,7 +5114,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — double stops + bow distribution (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — submissions (armbar / triangle / kimura) (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5127,17 +5129,17 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W185 · Mon 2030-04-08 → Sun 2030-04-14
+### W185 · Mon 2030-04-01 → Sun 2030-04-07
 *Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** Capstone defense + final submission; graduation audit.
+  - On the horizon: Exam — Capstone defense + final submission; graduation audit. (by Apr 15, 2030).
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Exam by Apr 15; Event by Jun 10.
 - **Academic / Course Milestones**
-  - **Winter 2030 — classes end (provisional); exam window TBA.**
+  - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: log spend weekly; keep receipts (income-support evidence).
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — Kreutzer étude + tone production (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — takedowns + grip fighting (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5152,15 +5154,15 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W186 · Mon 2030-04-15 → Sun 2030-04-21
-*Phase 9 · Final Year (Calgary) · Term: —*
+### W186 · Mon 2030-04-08 → Sun 2030-04-14
+*Phase 9 · Final Year (Calgary) · Term: Winter 2030*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Exam:** Capstone defense + final submission; graduation audit.
+  - **Start now (needed in 1 wk):** Capstone defense + final submission; graduation audit.
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
-  - **This week enables:** Event by Jun 10.
+  - **This week enables:** Exam by Apr 15; Event by Jun 10.
 - **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+  - **Winter 2030 — classes end (provisional); exam window TBA.**
 - **Financial Action Items**
   - Standing: reconcile budget vs actual; flag any overspend on training or fees.
 - **Training & Artistic Schedule**
@@ -5177,10 +5179,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W187 · Mon 2030-04-22 → Sun 2030-04-28
+### W187 · Mon 2030-04-15 → Sun 2030-04-21
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
+  - **DUE THIS WEEK — Exam:** Capstone defense + final submission; graduation audit.
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Event by Jun 10.
 - **Academic / Course Milestones**
@@ -5201,7 +5204,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W188 · Mon 2030-04-29 → Sun 2030-05-05
+### W188 · Mon 2030-04-22 → Sun 2030-04-28
 *Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
@@ -5225,16 +5228,16 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W189 · Mon 2030-05-06 → Sun 2030-05-12
-*Phase 9 · Final Year (Calgary) · Term: Spring 2030*
+### W189 · Mon 2030-04-29 → Sun 2030-05-05
+*Phase 9 · Final Year (Calgary) · Term: —*
 
 - **Critical Path — Meetings & Applications**
   - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Event by Jun 10.
 - **Academic / Course Milestones**
-  - Standing: book a study-group or tutorial slot for the hardest course.
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — ensemble parts + sectionals (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — live rolls + conditioning rounds (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5249,7 +5252,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W190 · Mon 2030-05-13 → Sun 2030-05-19
+### W190 · Mon 2030-05-06 → Sun 2030-05-12
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5258,7 +5261,7 @@ calendrical.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5273,7 +5276,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W191 · Mon 2030-05-20 → Sun 2030-05-26
+### W191 · Mon 2030-05-13 → Sun 2030-05-19
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5297,7 +5300,7 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W192 · Mon 2030-05-27 → Sun 2030-06-02
+### W192 · Mon 2030-05-20 → Sun 2030-05-26
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
@@ -5321,16 +5324,16 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
 
-### W193 · Mon 2030-06-03 → Sun 2030-06-09
+### W193 · Mon 2030-05-27 → Sun 2030-06-02
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
-  - **Start now (needed in 1 wk):** Convocation (June 2030).
+  - On the horizon: Event — Convocation (June 2030). (by Jun 10, 2030).
   - **This week enables:** Event by Jun 10.
 - **Academic / Course Milestones**
   - Standing: check Quest/D2L for the week; no summative deadline is expected.
 - **Financial Action Items**
-  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
+  - Standing: log spend weekly; keep receipts (income-support evidence).
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — repertoire passage work over intonation drones (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — back control + escapes (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5345,16 +5348,16 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** capstone milestones vs plan.
 
-### W194 · Mon 2030-06-10 → Sun 2030-06-16
+### W194 · Mon 2030-06-03 → Sun 2030-06-09
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
-  - **DUE THIS WEEK — Event:** Convocation (June 2030).
-  - **This week enables:** the phase gate below.
+  - **Start now (needed in 1 wk):** Convocation (June 2030).
+  - **This week enables:** Event by Jun 10.
 - **Academic / Course Milestones**
   - Standing: book a study-group or tutorial slot for the hardest course.
 - **Financial Action Items**
-  - Standing: reconcile budget vs actual; flag any overspend on training or fees.
+  - **Monthly finance check** — reconcile spend vs budget, confirm the next filing, and set money aside for upcoming fees.
 - **Training & Artistic Schedule**
   - **Violin** 45 min daily — sight-reading + rhythm drills (Calgary Civic Symphony / Calgary Phil open rehearsals).
   - **BJJ** 3x (Mon/Wed/Fri) — leg-lock entries + defense (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
@@ -5369,11 +5372,11 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** NeetCode timed score.
 
-### W195 · Mon 2030-06-17 → Sun 2030-06-23
+### W195 · Mon 2030-06-10 → Sun 2030-06-16
 *Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
-  - No scheduled application or meeting this week — keep the pipeline moving and protect the routines that make later phases possible.
+  - **DUE THIS WEEK — Event:** Convocation (June 2030).
   - **This week enables:** the phase gate below.
 - **Academic / Course Milestones**
   - Standing: work ahead on the next assignment so the weekend stays free.
@@ -5393,14 +5396,14 @@ calendrical.
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** applications sent (grad/job).
 
-### W196 · Mon 2030-06-24 → Sun 2030-06-30
-*Phase 9 · Final Year (Calgary) · Term: —*
+### W196 · Mon 2030-06-17 → Sun 2030-06-23
+*Phase 9 · Final Year (Calgary) · Term: Spring 2030*
 
 - **Critical Path — Meetings & Applications**
   - No scheduled application or meeting this week — keep the pipeline moving and protect the routines that make later phases possible.
   - **This week enables:** the phase gate below.
 - **Academic / Course Milestones**
-  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+  - Standing: keep problem sets, labs and readings current; confirm the week's deadlines on D2L.
 - **Financial Action Items**
   - Standing: review upcoming fees (tuition, insurance, test fees) and set money aside.
 - **Training & Artistic Schedule**
@@ -5416,3 +5419,27 @@ calendrical.
 - **Gate & Feedback**
   - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
   - **Leading indicator to watch this week:** audition + swim test-set status.
+
+### W197 · Mon 2030-06-24 → Sun 2030-06-30
+*Phase 9 · Final Year (Calgary) · Term: —*
+
+- **Critical Path — Meetings & Applications**
+  - No scheduled application or meeting this week — keep the pipeline moving and protect the routines that make later phases possible.
+  - **This week enables:** the phase gate below.
+- **Academic / Course Milestones**
+  - Break week — recover first, then do a short prep pass on the next term's prerequisites.
+- **Financial Action Items**
+  - Standing: log spend weekly; keep receipts (income-support evidence).
+- **Training & Artistic Schedule**
+  - **Violin** 45 min daily — 3-octave scales + Sevcik shifting (Calgary Civic Symphony / Calgary Phil open rehearsals).
+  - **BJJ** 3x (Mon/Wed/Fri) — guard passing + pressure (Upper Jiu-Jitsu or Affinity Academy (blue->purple track)).
+  - **Swim** 3x (Tue/Thu/Sat) — aerobic base (2.0-2.5 km) (Foothills Masters Swim Club / Vivo Lane Pool).
+  - **Yoga** 3x (Sun/Tue/Thu) — vinyasa flow (hip + shoulder opening) (Yoga Passage / MNP Hot Yoga); active recovery, not extra load.
+- **Technical & Portfolio Sprints**
+  - Sprint: **Final year: capstone + interview sprint**.
+  - Capstone: VLM-driven humanoid manipulation — build Jan-Mar, defense Apr 2030.
+- **Weekly Time Budget**
+  - Time budget — Academic 18h · LeetCode 8h · Project 10h · Training 16.5h · **Personal/rest 10h — protected** (sleep 8h/night; all figures target).
+- **Gate & Feedback**
+  - **Phase 9 gate** (3 criteria — phase ends when these are TRUE, not on a date): Capstone defended (VLM-driven humanoid manipulation) | NeetCode 150 mastered twice; interview-ready in C++ and Python | Graduation audit cleared; job / grad-school pipeline live
+  - **Leading indicator to watch this week:** capstone milestones vs plan.
