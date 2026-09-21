@@ -1,0 +1,137 @@
+{
+ "updated": "2026-09-21",
+ "note": "Ad-hoc real-world commitments (renewals, appointments, one-off deadlines). The planner agent OWNS this file and appends to it. The generator schedules each step into the week equal to `due - weeks_before` (snapped to Monday) and shows it in that week's Critical Path lane. ONE-FILE RULE: each step may carry its own `detail` (what/why/steps/links/contacts) so adding a commitment never requires touching another file. NEVER invent a date or fee: if unknown, store null and let the agent confirm.",
+ "commitments": [
+  {
+   "id": "drivers-licence-renewal-2026",
+   "title": "Renew Alberta driver's licence",
+   "due": "2026-11-08",
+   "kind": "Renew",
+   "verified": true,
+   "source": "https://www.alberta.ca/licensing-and-owning-a-vehicle (fetched 2026-09-21)",
+   "why": "An expired licence silently blocks everything downstream — exam ID, registry services, and any co-op/payroll paperwork that needs government photo ID. It is cheap to do early and expensive to discover late.",
+   "links": [
+    {"label": "Alberta.ca — Getting a driver's licence", "url": "https://www.alberta.ca/get-drivers-licence"},
+    {"label": "Alberta.ca — Registry agents (find one)", "url": "https://www.alberta.ca/registry-agents"},
+    {"label": "Alberta.ca — Licensing & owning a vehicle", "url": "https://www.alberta.ca/licensing-and-owning-a-vehicle"}
+   ],
+   "contacts": [
+    {"label": "Authorized Alberta registry agent (walk-in / appointment)", "url": "https://www.alberta.ca/registry-agents"}
+   ],
+   "steps": [
+    {
+     "weeks_before": 5,
+     "text": "Confirm the exact expiry date and licence class on your current card, and check that the address on file is current (Alberta requires driving documents be updated within 14 days of any change).",
+     "detail": {
+      "what": "Read the expiry date and class off your current licence and verify the address on file matches where you actually live (100 Howse Terrace).",
+      "why": "The whole plan hangs off the real expiry date — and a stale address means the new card mails to the wrong place, which turns a simple renewal into a multi-week problem.",
+      "steps": [
+       "Look at the card: note the expiry date (YYYY-MM-DD) and the class (e.g. Class 5 / Class 5 GDL).",
+       "Confirm the mailing address on file — if it changed, plan to update it (must be done within 14 days of the change).",
+       "Write the expiry date into this calendar so the lead times are anchored to the real date, not a guess."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Update driving documents", "url": "https://www.alberta.ca/licensing-and-owning-a-vehicle"}
+      ],
+      "contacts": []
+     }
+    },
+    {
+     "weeks_before": 4,
+     "text": "Decide the renewal route: check whether online renewal is available for your class via Alberta.ca eServices; otherwise plan for an in-person visit to a registry agent. Sign up for renewal reminders.",
+     "detail": {
+      "what": "Renewals are done in person at an authorized Alberta registry agent (some services may be available online depending on class). Sign up for the eServices renewal reminder so this never surprises you again.",
+      "why": "Knowing whether this is an online click or a booked appointment decides how much lead time you actually need. The reminder signup prevents the 2029 repeat.",
+      "steps": [
+       "Check Alberta.ca eServices: is online renewal offered for your licence class?",
+       "If not (or if unsure), plan for an in-person visit to an authorized registry agent.",
+       "Sign up for Alberta.ca eServices renewal reminders for your licence and any vehicle registration.",
+       "Note which route you chose in the week's Notes."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Renew or replace a driver's licence", "url": "https://www.alberta.ca/licensing-and-owning-a-vehicle"}
+      ],
+      "contacts": []
+     }
+    },
+    {
+     "weeks_before": 3,
+     "text": "Book the registry-agent appointment (in person) at a Calgary registry — pick a location and a time you can actually make.",
+     "detail": {
+      "what": "Reserve a slot at a Calgary registry agent for the renewal. Walk-ins are possible but an appointment removes the queue risk near the deadline.",
+      "why": "Booking now is the step that makes the rest of the slice trivial. Near the expiry date, appointment availability is the bottleneck, not the paperwork.",
+      "steps": [
+       "Pick a Calgary registry agent that is convenient (see the registry-agents page).",
+       "Book an appointment date at least two weeks before the Nov 8 expiry.",
+       "Add the appointment time to your personal calendar and to this week's Notes."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Find a registry agent", "url": "https://www.alberta.ca/registry-agents"}
+      ],
+      "contacts": [
+       {"label": "Calgary registry agents (directory)", "url": "https://www.alberta.ca/registry-agents"}
+      ]
+     }
+    },
+    {
+     "weeks_before": 2,
+     "text": "Gather what you'll bring: current licence, proof of Alberta residency, and payment. Confirm the current renewal fee for your class/term at the counter or on Alberta.ca.",
+     "detail": {
+      "what": "Assemble the documents and confirm the fee — do not guess the amount. Bring the expiring licence (you surrender it), proof of Alberta residency, and a payment method.",
+      "why": "Document surprises are the number-one reason a registry visit fails on the day. Confirming the fee separately means you don't walk in short.",
+      "steps": [
+       "Bring your current (expiring) licence — you surrender it at renewal.",
+       "Bring proof of Alberta residency (confirm the accepted forms at the registry / Alberta.ca).",
+       "Confirm the current fee for your licence class and renewal term — ask at the counter or check Alberta.ca (amount NOT stated here: UNVERIFIED).",
+       "Bring a valid payment method (card accepted at most registry agents)."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Get a driver's licence", "url": "https://www.alberta.ca/get-drivers-licence"}
+      ],
+      "contacts": [
+       {"label": "Registry agent (confirm accepted documents + fee)", "url": "https://www.alberta.ca/registry-agents"}
+      ]
+     }
+    },
+    {
+     "weeks_before": 1,
+     "text": "Attend the appointment: surrender the old licence, receive the interim/temporary document, and pay. The permanent card is produced and mailed.",
+     "detail": {
+      "what": "Do the renewal in person. You hand over the old licence, get a temporary (interim) document to cover the gap, and the new card is mailed to your address on file.",
+      "why": "This is the executable step. The interim document is what keeps you legal while the card is in the mail — check its validity date before you leave the counter.",
+      "steps": [
+       "Attend the booked appointment with your documents.",
+       "Surrender the old licence and confirm your name/address/class are correct on the new record.",
+       "Check the interim/temporary document: confirm it covers you until the card arrives, and note its validity.",
+       "Pay and keep the receipt (file it with your records)."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Renew or replace a driver's licence", "url": "https://www.alberta.ca/licensing-and-owning-a-vehicle"}
+      ],
+      "contacts": []
+     }
+    },
+    {
+     "weeks_before": 0,
+     "text": "DUE — licence expires Nov 8. By now the renewal is complete and you hold a valid (interim or permanent) licence. Confirm the permanent card has arrived or is tracked.",
+     "detail": {
+      "what": "The deadline. Confirm the job is actually finished: a valid licence in hand, and the permanent card either arrived or confirmed as mailed.",
+      "why": "A renewal is only done when you can prove it. This last check closes the slice and catches a card that never arrived (which would otherwise surface months later, too late).",
+      "steps": [
+       "Confirm you hold a valid licence (interim counts) covering the expiry date.",
+       "Track or confirm the mailed card; if it has not arrived within the stated window, contact the registry agent.",
+       "Update any place that stores your licence number/expiry (employer, insurer, records), if applicable.",
+       "Tick this week's box — the commitment is closed."
+      ],
+      "links": [
+       {"label": "Alberta.ca — Licensing & owning a vehicle", "url": "https://www.alberta.ca/licensing-and-owning-a-vehicle"}
+      ],
+      "contacts": [
+       {"label": "Registry agent (card not arrived?)", "url": "https://www.alberta.ca/registry-agents"}
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
